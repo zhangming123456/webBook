@@ -63,3 +63,14 @@
 内核
 
 >内核（Rendering Engine）：可大概译为“渲染引擎”，不过我们一般习惯将之称为“浏览器内核”。负责对网页语法的解释（如标准通用标记语言下的一个应用HTML、JavaScript）并渲染（显示）网页。
+
+内核的分类
+
+>Trident[ˈtraɪdn:t]：ie , 猎豹安全浏览器,360极速浏览器,百度浏览器... 
+
+>Gecko[ˈgekoʊ]：Firefox
+
+>Webkit[webkit]：Safari
+
+>Blink：Chrome，Opera
+
