@@ -10,3 +10,5 @@ HTML:(HyperText Markup Language)超文本标记语言。
         <body>
         </body>
     </html>
+
+>注意：现在这个阶段所有的内容都写在body标签之内。
