@@ -178,32 +178,6 @@ HTML与XHTML包括的文档类型
 
 ![](/image/structure.gif)
 
-** a标签（超链接） **
-
-    <!-- 默认超链接  -->
-    <a href="http://sample-link.com" title="Sample Link">Sample</a>
-    <!-- 当前窗口显示 -->
-    <a href="http://sample-link.com" title="Sample Link" target="_self">Sample</a>
-    <!-- 新窗口显示 -->
-    <a href="http://sample-link.com" title="Sample Link" target="_blank">Sample</a>
-    <!-- iframe 中打开链接 -->
-    <a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>
-    <iframe name="iframe-name" frameborder="0"></iframe>
-
-    <!-- 页面中的锚点 -->
-    <a href="#achor">Achor Point</a>
-    <section id="achor">Achor Content</section>
-
-    <!-- 邮箱及电话需系统支持 -->
-    <a href="mailto:sample-address@me.com" title="Email">Contact Us</a>
-    <!-- 多个邮箱地址 -->
-    <a href="mailto:sample-address@me.com, sample-address0@me.com" title="Email">Contact Us</a>
-    <!-- 添加抄送，主题和内容 -->
-    <a href="mailto:sample-address@me.com?cc=admin@me.com&subject=Help&body=sample-body-text" title="Email">Contact Us</a>
-
-    <!-- 电话示例 -->
-    <a href="tel:99999999" title="Phone">Ring Us</a>
-
 ** 常见标签 **
 
 - `<div>` 块标签
