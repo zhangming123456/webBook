@@ -15,6 +15,8 @@ HTML:(HyperText Markup Language)超文本标记语言。
 
 ![](/image/html-overview.png)
 
+** DOCTYPE（document type）:文档类型 **
+
 注意事项：
 
 - `<!DOCTYPE html>` 必须首行定格
