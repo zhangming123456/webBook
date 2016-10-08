@@ -310,6 +310,58 @@ meta的用法：
 <table border="1">
     <caption>input 类型支持值列表</caption>
     <tbody>
+<tr>
+                <th style="width:22%">属性</th>
+                <th>属性值（value）</th>
+                <th>作用</th>
+                <th>作用域属性</th>
+            </tr>
+            <tr>
+                <td rowspan="9">type</td>
+                <td>text</td>
+                <td>文本框</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td> password</td>
+                <td>密码框</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>hidden</td>
+                <td>隐藏域</td>
+                <td></td>
+            </tr>
+             <tr>
+                <td>radio</td>
+                <td>单选框</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>checkbox</td>
+                <td>多选框</td>
+                <td></td>
+            </tr>
+            <tr>
+            	<td>button</td>
+            	<td>按钮</td>
+            	<td></td>
+            </tr>
+            <tr>
+            	<td>reset</td>
+            	<td>重置</td>
+            	<td></td>
+            </tr>
+            <tr>
+            	<td>image</td>
+            	<td>图片按钮</td>
+            	<td></td>
+            </tr>
+            <tr>
+            	<td>submit</td>
+            	<td>提交</td>
+            	<td></td>
+            </tr>
     </tbody>
 </table>
 
