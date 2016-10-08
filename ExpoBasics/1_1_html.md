@@ -345,7 +345,7 @@ meta的用法：
 
  <tr>
 
- <td class="html5badge"><img src="image/html5_badge20.png">date</td>
+ <td class="html5badge"><img src="/image/html5_badge20.png">date</td>
 
  <td>Defines a date control (year, month and day (no time))</td>
 
