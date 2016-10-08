@@ -307,6 +307,12 @@ meta的用法：
 
 
 
+<table border="1">
+    <caption>input 类型支持值列表</caption>
+    <tbody>
+    </tbody>
+</table>
+
 
 
 
