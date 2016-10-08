@@ -290,16 +290,16 @@ meta的用法：
 
 | 属性 | 属性值 | 作用 | 作用域 |
 | :---- | :-------------- | :-----|
-| type | text | 文本框 |
-|  | password | 密码框 |
-|  | hidden | 隐藏域 |
-|  | radio | 单选框 |
-|  | checkbox | 多选框 |
-|  | button | 按钮 |
-|  | reset | 重置 |
-|  | image | 图片按钮 |
-|  | submit | 提交 |
-| value |  | 用于设置默认值(text,password,button) |
+| type | text | 文本框 | |
+|  | password | 密码框 | |
+|  | hidden | 隐藏域 | |
+|  | radio | 单选框 | |
+|  | checkbox | 多选框 | |
+|  | button | 按钮 | |
+|  | reset | 重置 | |
+|  | image | 图片按钮 | |
+|  | submit | 提交 | |
+| value |  | 用于设置默认值(text,password,button) | |
 |
 | select | option | 下拉框 |
 | textarea | | 文本域 |
