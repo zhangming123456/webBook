@@ -299,8 +299,7 @@ meta的用法：
 |  | reset | 重置 |
 |  | image | 图片按钮 |
 |  | submit | 提交 |
-
-|       | value | 用于设置默认值(text,password,button) |
+| value | 用于设置默认值(text,password,button) |
 | select | option | 下拉框 |
 | textarea | | 文本域 |
 
