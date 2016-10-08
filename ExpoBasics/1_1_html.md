@@ -134,7 +134,7 @@ HTML与XHTML包括的文档类型
 
 ***
 ## HTML 语法
-
+![](/image/html-syntax.png)
 
 ** 书写规范 **
 
