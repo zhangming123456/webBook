@@ -9,9 +9,8 @@
 | 章节 | 名称 | 进程 |
 | :--- | :-------------- | :-------------------------------- |
 | 第一章 | [HTML与CSS 基础](/ExpoBasics/1_htmlcss.md) | ![](http://progressed.io/bar/100) |
-|  | [1-1、前端入门知识](/ExpoBasics/1_1.md) |![](http://progressed.io/bar/100) |
-|  | [1-2、HTML](/ExpoBasics/1_2_html.md) |![](http://progressed.io/bar/100) |
-|  | [1-3、CSS](/ExpoBasics/1_3_css.md) |![](http://progressed.io/bar/100) |
+|  | [1-1、HTML](/ExpoBasics/1_1_html.md) |![](http://progressed.io/bar/100) |
+|  | [1-1、CSS](/ExpoBasics/1_1_css.md) |![](http://progressed.io/bar/100) |
 | 第二章 | [JavaScript 基础](/ExpoBasics/2_javascript.md) | ![](http://progressed.io/bar/0) |
 
 ### 学会window常用快捷键
