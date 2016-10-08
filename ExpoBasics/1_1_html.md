@@ -133,6 +133,8 @@ HTML与XHTML包括的文档类型
 - `<link>` 标签可以引入 favicon 和样式表 CSS 文件
 
 ***
+## HTML标签
+
 #### HTML 语法
 
 
@@ -175,9 +177,6 @@ HTML与XHTML包括的文档类型
 
 ![](/image/structure.gif)
 
-
-***
-## HTML标签
 
 ** h系列标签（Header):h1-h6 **
 
