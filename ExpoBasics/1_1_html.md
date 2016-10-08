@@ -246,26 +246,9 @@ HTML与XHTML包括的文档类型
 | target | | 设置连接的跳转方式，默认"_self" |
 |  | _blank | 保留原始页面，再跳转 |
 |  | _self | 默认属性值，当前页面跳转 |
-|  | iframe名 | iframe中打开 `<a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a><iframe name="iframe-name" frameborder="0"></iframe>` |
-
 | base | | 为页面上所有的a标签设置跳转的方式（base标签一般放在titile标签下面） |
 
 
-
-
-
-
-`<!-- 默认超链接 -->`
-
- `<a href="http://sample-link.com" title="Sample Link">Sample</a>`
-
- <!-- 当前窗口显示 -->
-
- `<a href="http://sample-link.com" title="Sample Link" target="_self">Sample</a>`
-
- <!-- 新窗口显示 -->
-
- `<a href="http://sample-link.com" title="Sample Link" target="_blank">Sample</a>`
 
  <!-- iframe 中打开链接 -->
 
