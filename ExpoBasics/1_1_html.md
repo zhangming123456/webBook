@@ -256,20 +256,12 @@ HTML与XHTML包括的文档类型
 | `<!-- 页面中的锚点 -->` |
 | `<a href="#achor">Achor Point</a>` |
 | `<section id="achor">Achor Content</section>` |
-
-
-
- <!-- 邮箱及电话需系统支持 -->
-
- `<a href="mailto:sample-address@me.com" title="Email">Contact Us</a>`
-
- <!-- 多个邮箱地址 -->
-
- `<a href="mailto:sample-address@me.com, sample-address0@me.com" title="Email">Contact Us</a>`
-
- <!-- 添加抄送，主题和内容 -->
-
- `<a href="mailto:sample-address@me.com?cc=admin@me.com&subject=Help&body=sample-body-text" title="Email">Contact Us</a>`
+| `<!-- 邮箱及电话需系统支持 -->` |
+| `<a href="mailto:sample-address@me.com" title="Email">Contact Us</a>` |
+| `<!-- 多个邮箱地址 -->` |
+| `<a href="mailto:sample-address@me.com, sample-address0@me.com" title="Email">Contact Us</a>` |
+| `<!-- 添加抄送，主题和内容 -->` |
+| `<a href="mailto:sample-address@me.com?cc=admin@me.com&subject=Help&body=sample-body-text" title="Email">Contact Us</a>` |
 
 
 
