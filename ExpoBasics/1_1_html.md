@@ -226,7 +226,7 @@ HTML与XHTML包括的文档类型
 
 - `<div>` 块标签
 
-- `<p>` 段落标签（Paeagraph)（少量文字）
+- `<p>` 段落标签（Paeagraph)
 
 - `<ol>` 有序列表
 
