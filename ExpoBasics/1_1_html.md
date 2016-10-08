@@ -132,7 +132,6 @@ HTML与XHTML包括的文档类型
 
 - `<link>` 标签可以引入 favicon 和样式表 CSS 文件
 
-***
 
 #### HTML 语法
 
@@ -145,7 +144,7 @@ HTML与XHTML包括的文档类型
 
 - 代码因嵌套缩进
 
-***
+
 #### 全局属性
 
 - id, `<div id='unique-element'></div>`，页面中唯一
@@ -157,5 +156,6 @@ HTML与XHTML包括的文档类型
 - title，对于元素的描述类似于 Tooltip 的效果。
 
 ***
-HTML标签
-===========
+## HTML标签
+
+** h系列标签（Header):h1-h6 **
