@@ -281,18 +281,18 @@ HTML与XHTML包括的文档类型
 
  <!-- 邮箱及电话需系统支持 -->
 
- `<a href="mailto:sample-address@me.com" title="Email">Contact Us</a>
+ `<a href="mailto:sample-address@me.com" title="Email">Contact Us</a>`
 
  <!-- 多个邮箱地址 -->
 
- <a href="mailto:sample-address@me.com, sample-address0@me.com" title="Email">Contact Us</a>
+ `<a href="mailto:sample-address@me.com, sample-address0@me.com" title="Email">Contact Us</a>`
 
  <!-- 添加抄送，主题和内容 -->
 
- <a href="mailto:sample-address@me.com?cc=admin@me.com&subject=Help&body=sample-body-text" title="Email">Contact Us</a>
+ `<a href="mailto:sample-address@me.com?cc=admin@me.com&subject=Help&body=sample-body-text" title="Email">Contact Us</a>`
 
 
 
  <!-- 电话示例 -->
 
- <a href="tel:99999999" title="Phone">Ring Us</a>`
+ `<a href="tel:99999999" title="Phone">Ring Us</a>`
