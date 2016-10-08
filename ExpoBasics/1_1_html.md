@@ -260,9 +260,5 @@ HTML与XHTML包括的文档类型
 | `<a href="mailto:sample-address@me.com, sample-address0@me.com" title="Email">Contact Us</a>` |
 | `<!-- 添加抄送，主题和内容 -->` |
 | `<a href="mailto:sample-address@me.com?cc=admin@me.com&subject=Help&body=sample-body-text" title="Email">Contact Us</a>` |
-
-
-
- <!-- 电话示例 -->
-
- `<a href="tel:99999999" title="Phone">Ring Us</a>`
+| `<!-- 电话示例 -->` |
+| `<a href="tel:99999999" title="Phone">Ring Us</a>` |
