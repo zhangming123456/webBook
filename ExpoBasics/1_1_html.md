@@ -286,17 +286,16 @@ meta的用法：
 
 | 标签 | 属性 | 作用 |
 | :---- | :-------------- | :--------------- |
-| input | type | text:文本框 |
-|       |      | password：密码框 |
-|       |      | hidden:隐藏域    |
-|       |      | radio:单选框     |
-|       |      | checkbox:多选框  |
-|       |      | button:按钮      |
-|       |      | reset:重置       |
-|       |      | image:图片按钮   |
-|       |      | submit:提交      |
-
-
+| input | type  | text:文本框 |
+|       |       | password：密码框 |
+|       |       | hidden:隐藏域    |
+|       |       | radio:单选框     |
+|       |       | checkbox:多选框  |
+|       |       | button:按钮      |
+|       |       | reset:重置       |
+|       |       | image:图片按钮   |
+|       |       | submit:提交      |
+|       | value |  |
 
 
 
