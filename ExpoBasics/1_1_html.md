@@ -248,7 +248,7 @@ HTML与XHTML包括的文档类型
 |  | _self | 默认属性值，当前页面跳转 |
 | base | | 为页面上所有的a标签设置跳转的方式（base标签一般放在titile标签下面） |
 
-| iframe中打开 |
+| `<!-- iframe中打开 -->` |
 | :---- |
 | `<a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>` |
 |`<iframe name="iframe-name" frameborder="0"></iframe>` |
