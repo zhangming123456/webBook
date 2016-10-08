@@ -15,12 +15,10 @@ HTML:(HyperText Markup Language)超文本标记语言。
 
 ![](/image/html-overview.png)
 
-| 元素 | 说明 |
+| 元素 | 说明 | 备注 |
 | :---- | :----- |
+| DOCTYPE(document type):文档类型 | 声明位于文档中的最前面的位置，处于 <html> 标签之前。此标签可告知浏览器文档使用哪种 HTML 或 XHTML 规范 |  注意：每个页面都必须设置一个doctype，如果不设置，浏览器会默认开启quirks mode（怪异模式）解析（quirks mode是浏览器为了兼容很早之前针对旧版本浏览器设计、并未严格遵循 W3C 标准的网页而产生的一种页面渲染模式）|
 
-** DOCTYPE（document type）:文档类型： **
-
-声明位于文档中的最前面的位置，处于 <html> 标签之前。此标签可告知浏览器文档使用哪种 HTML 或 XHTML 规范.
 
 HTML与XHTML包括的文档类型
 
@@ -38,9 +36,7 @@ HTML与XHTML包括的文档类型
 |  | Frameset DTD | 框架级的类型 |
 | HTML5 |  |  |
 
->注意：
-
->每个页面都必须设置一个doctype，如果不设置，浏览器会默认开启quirks mode（怪异模式）解析（quirks mode是浏览器为了兼容很早之前针对旧版本浏览器设计、并未严格遵循 W3C 标准的网页而产生的一种页面渲染模式）。 
+ 
 
 
 ** html标签： **
