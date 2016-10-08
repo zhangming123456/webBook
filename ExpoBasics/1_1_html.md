@@ -307,11 +307,13 @@ meta的用法：
 
 
 
-<table border="1">
-    <caption>input 类型支持值列表</caption>
-    <tbody>
-        <tr><th>属性</th><th>属性值（value）</th><th>作用</th><th>作用域属性</th></tr>
-            <tr>
+<table>
+        <caption>input 类型支持值列表</caption>
+            <tbody>
+                <tr>
+                    <th>属性</th><th>属性值（value）</th><th>作用</th><th>作用域属性</th>
+                </tr>
+                <tr>
                 <td rowspan="9">type</td>
                 <td>text</td>
                 <td>文本框</td>
