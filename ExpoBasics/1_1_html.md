@@ -253,29 +253,29 @@ HTML与XHTML包括的文档类型
 
 <!-- 默认超链接 -->
 
- <a href="http://sample-link.com" title="Sample Link">Sample</a>
+ `<a href="http://sample-link.com" title="Sample Link">Sample</a>`
 
  <!-- 当前窗口显示 -->
 
- <a href="http://sample-link.com" title="Sample Link" target="_self">Sample</a>
+ `<a href="http://sample-link.com" title="Sample Link" target="_self">Sample</a>`
 
  <!-- 新窗口显示 -->
 
- <a href="http://sample-link.com" title="Sample Link" target="_blank">Sample</a>
+ `<a href="http://sample-link.com" title="Sample Link" target="_blank">Sample</a>`
 
  <!-- iframe 中打开链接 -->
 
- <a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>
+ `<a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>`
 
- <iframe name="iframe-name" frameborder="0"></iframe>
+ `<iframe name="iframe-name" frameborder="0"></iframe>`
 
 
 
  <!-- 页面中的锚点 -->
 
- <a href="#achor">Achor Point</a>
+ `<a href="#achor">Achor Point</a>`
 
- <section id="achor">Achor Content</section>
+ `<section id="achor">Achor Content</section>`
 
 
 
