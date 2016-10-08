@@ -238,16 +238,19 @@ meta的用法：
 
 #### 表格
 
-     <table> 
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-    </table>
+     <table border="1">
+        <caption></caption>
+        <thead>
+            <tr><th></th><th></th></tr>
+        </thead>
+        <tbody>
+            <tr><th></th><th></th></tr>
+        </tbody>
+        <tfoot>
+            <tr><th></th><th></th></tr>
+        </tfoot>
+     </table>
+
 
 | 属性 | 作用 |
 | :---- | :-------------- |
