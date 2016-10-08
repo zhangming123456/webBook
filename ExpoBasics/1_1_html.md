@@ -251,11 +251,9 @@ HTML与XHTML包括的文档类型
 | 其他方法 |
 | :---- |
 | `<!-- iframe中打开 -->` |
-| `<a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>` |
-| `<iframe name="iframe-name" frameborder="0"></iframe>` |
+| `<a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>`     `<iframe name="iframe-name" frameborder="0"></iframe>` |
 | `<!-- 页面中的锚点 -->` |
-| `<a href="#achor">Achor Point</a>` |
-| `<section id="achor">Achor Content</section>` |
+| `<a href="#achor">Achor Point</a>`      `<section id="achor">Achor Content</section>` |
 | `<!-- 邮箱及电话需系统支持 -->` |
 | `<a href="mailto:sample-address@me.com" title="Email">Contact Us</a>` |
 | `<!-- 多个邮箱地址 -->` |
