@@ -305,7 +305,7 @@ input元素输入文字
 
 | 属性 | 说明 | 是否HTML5 |
 | :---------- | :-------------- |
-| textarea | 文本域 | ![](/image/html5_badge20.png) |
+| dirname | 指定元素内容文字方向的名称 | ![](/image/html5_badge20.png) |
 
 
 
