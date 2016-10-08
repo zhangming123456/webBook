@@ -31,4 +31,25 @@ HTML:(HyperText Markup Language)超文本标记语言。
 
 ***
 
+#### HTML 语法
+
+
+书写规范
+
+- 小写标签和属性
+
+- 属性值双引号
+
+- 代码因嵌套缩进
+
+***
+#### 全局属性
+
+- id, `<div id='unique-element'></div>`，页面中唯一
+
+- class，`<button class='btn'>Click Me</button>`，页面中可重复出现
+
+- style，尽量避免
+
+- title，对于元素的描述类似于 Tooltip 的效果。
 
