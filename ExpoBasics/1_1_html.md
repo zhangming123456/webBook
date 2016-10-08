@@ -284,3 +284,21 @@ meta的用法：
 
 作用：用来收集用户的信息，将来提交到服务器
 
+| 标签 | 作用 | 特点 |
+| :---- | :-------------- | :--------------- |
+| input | type | text:文本框 |
+|       |      | password：密码框 |
+
+hidden:隐藏域
+
+radio:单选框
+
+checkbox:多选框
+
+button:按钮
+
+reset:重置
+
+image:图片按钮
+
+submit:提交
