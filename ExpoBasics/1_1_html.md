@@ -72,7 +72,7 @@ HTML与XHTML包括的文档类型
 
  注意：
 
-title中的文本在SEO中占有很大的权重。
+>title中的文本在SEO中占有很大的权重。
 
 
 
