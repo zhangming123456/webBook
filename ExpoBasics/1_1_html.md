@@ -288,7 +288,7 @@ meta的用法：
 | :---- | :-------------- |
 | input | 表示用于收集用户的建议值 |
 
-| 属性 | 属性值 | 作用 |
+| 属性 | 属性值 | 作用 | 作用域 |
 | :---- | :-------------- | :-----|
 | type | text | 文本框 |
 |  | password | 密码框 |
@@ -307,71 +307,7 @@ meta的用法：
 
 
 
-<table>
-        <caption>input 类型支持值列表</caption>
-    <tbody>
-            <tr>
-                <th style="width:22%">属性</th>
-                <th>属性值（value）</th>
-                <th>作用</th>
-                <th>作用域属性</th>
-            </tr>
-            <tr>
-                <td rowspan="9">type</td>
-                <td>text</td>
-                <td>文本框</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td> password</td>
-                <td>密码框</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>hidden</td>
-                <td>隐藏域</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>radio</td>
-                <td>单选框</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>checkbox</td>
-                <td>多选框</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>button</td>
-                <td>按钮</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>reset</td>
-                <td>重置</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>image</td>
-                <td>图片按钮</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>submit</td>
-                <td>提交</td>
-                <td></td>
-            </tr>     
-    </tbody>
-</table>
+
 
 
 
