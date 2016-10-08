@@ -33,7 +33,7 @@ HTML:(HyperText Markup Language)超文本标记语言。
 | XHTML | HTML Strict DTD | 请求比较严格的html类型 |
 |  | HTML Transitional DTD | 相对而言比较规范不太严禁 |
 |  | Frameset DTD | 框架级的类型 |
-| HTML5 |  |
+| HTML5 |  |  |
 
 
 注意事项：
