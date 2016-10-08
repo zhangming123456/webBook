@@ -173,7 +173,7 @@ HTML与XHTML包括的文档类型
 
 **页面通常结构**
 
-![](image/structure.gif)
+![](/image/structure.gif)
 
 
 ***
