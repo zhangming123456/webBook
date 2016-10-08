@@ -220,3 +220,4 @@ HTML与XHTML包括的文档类型
 
 - `<hr />` 横线标签(Horizontal Rule)(自闭合标签，严格模式要加/）
 
+- `<br />` 换行
