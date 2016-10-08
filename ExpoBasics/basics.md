@@ -10,7 +10,7 @@
 | :--- | :-------------- | :-------------------------------- |
 | 第一章 | [HTML与CSS 基础](/ExpoBasics/1_htmlcss.md) | ![](http://progressed.io/bar/100) |
 |  | [1-1、HTML](/ExpoBasics/1_1_html.md) |![](http://progressed.io/bar/100) |
-|  | [1-2、CSS](/ExpoBasics/1_1_css.md) |![](http://progressed.io/bar/100) |
+|  | [1-2、CSS](/ExpoBasics/1_2_css.md) |![](http://progressed.io/bar/100) |
 | 第二章 | [JavaScript 基础](/ExpoBasics/2_javascript.md) | ![](http://progressed.io/bar/0) |
 
 ### 学会window常用快捷键
