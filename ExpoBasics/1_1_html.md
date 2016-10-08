@@ -204,7 +204,7 @@ HTML与XHTML包括的文档类型
     <!-- 电话示例 -->
     <a href="tel:99999999" title="Phone">Ring Us</a>
 
-** 常用标签 **
+** 常见标签 **
 
 - `<div>` 块标签
 
