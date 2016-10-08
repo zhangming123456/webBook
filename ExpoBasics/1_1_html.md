@@ -155,6 +155,9 @@ HTML与XHTML包括的文档类型
 
 - title，对于元素的描述类似于 Tooltip 的效果。
 
+***
+## HTML标签
+
 #### 文档章节
 
 `<body>` 页面内容

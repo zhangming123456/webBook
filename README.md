@@ -9,6 +9,7 @@
 
 点击[这里](https://www.gitbook.com/download/pdf/book/zhangming123456/webbook)PDF下载！
 
+前端开发笔记本的 GitHub 项目地址在这里。如果你觉得这个项目不错，请点击 [Star]() 一下，您的支持是我最大的动力。 
 
 ### 写作进程
 
