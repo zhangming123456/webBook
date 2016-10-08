@@ -178,7 +178,7 @@ HTML与XHTML包括的文档类型
 
 ![](/image/structure.gif)
 
-** 常见标签 **
+#### 常见标签
 
 - `<div>` 块标签
 
