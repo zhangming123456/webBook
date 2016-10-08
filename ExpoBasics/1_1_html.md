@@ -337,7 +337,7 @@ meta的用法：
 
  <tr>
 
- <td class="html5badge">![color](/image/html5_badge20.png)color</td>
+ <td class="html5badge"><img src="/image/html5_badge20.png">color</td>
 
  <td>Defines a color picker</td>
 
