@@ -284,3 +284,5 @@ HTML与XHTML包括的文档类型
 | width | 设置宽度 |
 | height | 设置高度 |
 | cellspacing | 规定单元格之间的空白 |
+| cellpadding | 规定单元格边沿与其内容之间的空白 |
+| align(center/left/right) | 设置再table上，决定表格显示位置；设置在单元格上，决定单元格中文本的位置 |
