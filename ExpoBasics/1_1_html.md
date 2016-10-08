@@ -290,15 +290,11 @@ meta的用法：
 
 | 属性 | 属性值 | 作用 |
 | :---- | :-------------- | :-----|
-| type | text:文本框 |
-
-| | | password：密码框 |
-
-| | | hidden:隐藏域 |
-
-| | | radio:单选框 |
-
-| | | checkbox:多选框 |
+| type | text | 文本框 |
+|      | password | 密码框 |
+|  | hidden | 隐藏域 |
+|  | radio | 单选框 |
+|  | checkbox | 多选框 |
 
 | | | button:按钮 |
 
