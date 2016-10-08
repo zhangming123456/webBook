@@ -300,9 +300,212 @@ meta的用法：
 |  | image | 图片按钮 |
 |  | submit | 提交 |
 | value |  | 用于设置默认值(text,password,button) |
-
+|
 | select | option | 下拉框 |
 | textarea | | 文本域 |
+
+
+<table>
+
+ <caption>input 类型支持值列表</caption>
+
+ <tbody>
+
+ <tr>
+
+ <th style="width:22%">Value</th>
+
+ <th>Description</th>
+
+ </tr>
+
+ <tr>
+
+ <td>button</td>
+
+ <td>Defines a clickable button (mostly used with a JavaScript to activate a script)</td>
+
+ </tr>
+
+ <tr>
+
+ <td>checkbox</td>
+
+ <td>Defines a checkbox</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">color</td>
+
+ <td>Defines a color picker</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">date</td>
+
+ <td>Defines a date control (year, month and day (no time))</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">datetime</td>
+
+ <td>The input type datetime has been removed from the HTML standard. Use datetime-local instead.</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">datetime-local</td>
+
+ <td>Defines a date and time control (year, month, day, hour, minute, second, and fraction of a second (no time zone)</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">email</td>
+
+ <td>Defines a field for an e-mail address</td>
+
+ </tr>
+
+ <tr>
+
+ <td>file</td>
+
+ <td>Defines a file-select field and a "Browse..." button (for file uploads)</td>
+
+ </tr>
+
+ <tr>
+
+ <td>hidden</td>
+
+ <td>Defines a hidden input field</td>
+
+ </tr>
+
+ <tr>
+
+ <td>image</td>
+
+ <td>Defines an image as the submit button</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">month</td>
+
+ <td>Defines a month and year control (no time zone)</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">number</td>
+
+ <td>Defines a field for entering a number</td>
+
+ </tr>
+
+ <tr>
+
+ <td>password</td>
+
+ <td>Defines a password field (characters are masked)</td>
+
+ </tr>
+
+ <tr>
+
+ <td>radio</td>
+
+ <td>Defines a radio button</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">range</td>
+
+ <td>Defines a control for entering a number whose exact value is not important (like a slider control)</td>
+
+ </tr>
+
+ <tr>
+
+ <td>reset</td>
+
+ <td>Defines a reset button (resets all form values to default values)</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">search</td>
+
+ <td>Defines a text field for entering a search string</td>
+
+ </tr>
+
+ <tr>
+
+ <td>submit</td>
+
+ <td>Defines a submit button</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">tel</td>
+
+ <td>Defines a field for entering a telephone number</td>
+
+ </tr>
+
+ <tr>
+
+ <td>text</td>
+
+ <td>Default. Defines a single-line text field (default width is 20 characters)</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">time</td>
+
+ <td>Defines a control for entering a time (no time zone)</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">url</td>
+
+ <td>Defines a field for entering a URL</td>
+
+ </tr>
+
+ <tr>
+
+ <td class="html5badge"><img src="../img/H/html5_badge20.png">week</td>
+
+ <td>Defines a week and year control (no time zone)</td>
+
+ </tr>
+
+ </tbody>
+
+</table>
 
 
 
