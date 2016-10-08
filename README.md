@@ -2,6 +2,10 @@
 
 这是对前端基础的总结
 
+
+点击[这里](https://www.gitbook.com/read/book/zhangming123456/webbook)开始在 GitBook 阅读！
+
+
 ### 写作进程
 
 *第一版草稿*
