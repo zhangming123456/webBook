@@ -301,6 +301,11 @@ meta的用法：
 |  | submit | 提交 |
 
 
+input元素输入文字
+
+| 属性 | 说明 |
+| :---------- | :-------------- |
+| ![](/image/html5_badge20.png)textarea | 文本域 |
 
 
 
