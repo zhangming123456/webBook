@@ -296,8 +296,7 @@ meta的用法：
 |  | radio | 单选框 |
 |  | checkbox | 多选框 |
 |  | button | 按钮 |
-
-| | | reset:重置 |
+|  | reset | 重置 |
 
 | | | image:图片按钮 |
 
