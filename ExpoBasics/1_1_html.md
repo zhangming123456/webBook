@@ -1,4 +1,4 @@
-## 学习HTML标签
+## HTML结构
 
 HTML:(HyperText Markup Language)超文本标记语言。
 
