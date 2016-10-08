@@ -132,7 +132,7 @@ HTML与XHTML包括的文档类型
 
 - `<link>` 标签可以引入 favicon 和样式表 CSS 文件
 
-
+***
 #### HTML 语法
 
 
@@ -155,7 +155,36 @@ HTML与XHTML包括的文档类型
 
 - title，对于元素的描述类似于 Tooltip 的效果。
 
+#### 文档章节
+
+`<body>` 页面内容
+
+`<header>` 文档头部
+
+`<nav>` 导航
+
+`<aside>` 侧边栏
+
+`<article>` 定义外部内容（如外部引用的文章）
+
+`<section>` 一个独立的块
+
+`<footer>` 尾部
+
+**页面通常结构**
+
+![Web Structure](../img/structure.gif)
+
+
 ***
 ## HTML标签
 
 ** h系列标签（Header):h1-h6 **
+
+作用：把页面上的文字加上标题的语义
+
+>注意：一个页面只有一个h1标签。
+
+** p标签（Paeagraph):段落标签 **
+
+特点：页面上的一个段落
