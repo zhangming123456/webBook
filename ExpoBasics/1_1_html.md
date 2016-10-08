@@ -251,7 +251,7 @@ HTML与XHTML包括的文档类型
 
 
 
-<!-- 默认超链接 -->
+`<!-- 默认超链接 -->`
 
  `<a href="http://sample-link.com" title="Sample Link">Sample</a>`
 
