@@ -303,9 +303,9 @@ meta的用法：
 
 input元素输入文字
 
-| 属性 | 说明 |
+| 属性 | 说明 | 是否HTML5 |
 | :---------- | :-------------- |
-| ![](/image/html5_badge20.png)textarea | 文本域 |
+| textarea | 文本域 | ![](/image/html5_badge20.png) |
 
 
 
