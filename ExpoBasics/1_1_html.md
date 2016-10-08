@@ -21,6 +21,10 @@ HTML:(HyperText Markup Language)超文本标记语言。
 
 * HTML与XHTML包括的文档类型
 
+html：三种
+
+xhtml: 三种(html升级版本)是一种相对html语法更加严谨的html;
+
 | 文档类型 | 分类 | 备注 |
 | :------ | :---------------------- | :--------------------|
 | HTML | HTML Strict DTD | 请求比较严格的html类型 |
