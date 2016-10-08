@@ -250,7 +250,7 @@ HTML与XHTML包括的文档类型
 
 | 说明 | 例子 |
 | :---- | :-----: |
-| iframe中打开 | `<a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a> |<iframe name="iframe-name" frameborder="0"></iframe>` |
+| iframe中打开 | `<a href="http://sample-link.com" title="Sample Link" target="iframe-name">Sample</a>` |`<iframe name="iframe-name" frameborder="0"></iframe>` |
 
  <!-- iframe 中打开链接 -->
 
