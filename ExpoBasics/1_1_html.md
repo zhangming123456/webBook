@@ -310,7 +310,6 @@ input元素输入文字
 | maxlength | 输入字符最大数目 | |
 | pattern | 输入验证的正则表达式 | ![](/image/html5_badge20.png) |
 | placeholder | 指定关于所需数据类型的提示 | ![](/image/html5_badge20.png) |
-| 
 
 | 属性 | 属性值 | 作用 |
 | :---- | :-------------- | :-----|
