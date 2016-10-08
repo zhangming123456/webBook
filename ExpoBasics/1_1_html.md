@@ -17,6 +17,27 @@ HTML:(HyperText Markup Language)超文本标记语言。
 
 ** DOCTYPE（document type）:文档类型 **
 
+声明位于文档中的最前面的位置，处于 <html> 标签之前。此标签可告知浏览器文档使用哪种 HTML 或 XHTML 规范.
+
+* HTML与XHTML包括的文档类型
+
+| 文档类型 | 分类 | 备注 |
+| :------ | :---------------------- | :--------------------|
+| HTML | HTML Strict DTD | 请求比较严格的html类型 |
+|  | HTML Transitional DTD | 相对而言比较规范不太严禁 |
+|  | Frameset DTD | 框架级的类型 |
+xHTML
+
+HTML Strict DTD
+
+请求比较严格的html类型
+
+HTML Transitional DTD
+
+相对而言比较规范不太严禁
+
+
+
 注意事项：
 
 - `<!DOCTYPE html>` 必须首行定格
