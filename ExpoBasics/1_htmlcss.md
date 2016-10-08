@@ -57,3 +57,5 @@
 
  
 #### 浏览器与内核 ####
+
+主流浏览器：chrome、firefox、Safari、ie、opera
