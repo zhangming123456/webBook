@@ -320,9 +320,6 @@ meta的用法：
 | placeholder | | 指定关于所需数据类型的提示 | ![](/image/html5_badge20.png) | |
 | size | | 通过指定文本框中可见的字符数目设定其宽度 | | |
 
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    (MSN Search)
 
 
 
