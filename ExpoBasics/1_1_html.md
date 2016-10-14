@@ -319,9 +319,9 @@ input元素输入密码（password）
 
 | 属性 | 属性值 | 作用 | 是否HTML5 | 作用域 |
 | :---- | :-------------- | :-----|
-| value | | 用于设置默认值(text,password,button) |
-| select | option | 下拉框 |
-| textarea | | 文本域 |
+| value | | 用于设置默认值(text,password,button) | |
+| select | option | 下拉框 | |
+| textarea | | 文本域 | |
 | maxlength | | 输入字符最大数目 | |
 | readonly | |不影响其外观，用来将文本框设为只读以阻止用户编辑其内容 | |
 | disabled | |文本框显示灰色，并且禁止编辑其中的文字 | |
