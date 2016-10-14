@@ -288,7 +288,7 @@ meta的用法：
 | :---- | :-------------- |
 | input | 表示用于收集用户的建议值 |
 | form | 
-| select | option | 下拉框 | |
+| select |  | 下拉框 | |
 | textarea |  文本域 | 
 
 | 属性 | 属性值 | 作用 | html? |
@@ -319,6 +319,7 @@ meta的用法：
 | pattern | | 输入验证的正则表达式 | ![](/image/html5_badge20.png) | |
 | placeholder | | 指定关于所需数据类型的提示 | ![](/image/html5_badge20.png) | |
 | size | | 通过指定文本框中可见的字符数目设定其宽度 | | |
+| [id]option
 
 
 
