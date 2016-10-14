@@ -307,7 +307,6 @@ input元素输入文字(text)
 | :---------- | :-------------- |
 | dirname | 指定元素内容文字方向的名称 | ![](/image/html5_badge20.png) |
 | list | 指定为文本框提供建议值的datalist元素，其值为datalist元素的id值 | ![](/image/html5_badge20.png) |
-| pattern | 输入验证的正则表达式 | ![](/image/html5_badge20.png) |
 
 
 
