@@ -308,7 +308,7 @@ meta的用法：
 
 
 | 属性 | 属性值 | 作用 | HTML5? | 作用域 |
-| :---- | :----- | :----: | :---- |
+| :---- | :--- | :----: | :---- |
 | dirname | | 指定元素内容文字方向的名称 | ![](/image/html5_badge20.png) | input>text |
 | list | | 指定为文本框提供建议值的datalist元素， 其值为datalist元素的id值 | ![](/image/html5_badge20.png) | input>text |
 | value | | 用于设置默认值(text,password,button) |  |  |
