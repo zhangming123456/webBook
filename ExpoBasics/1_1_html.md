@@ -310,7 +310,6 @@ input元素输入文字(text)
 | pattern | 输入验证的正则表达式 | ![](/image/html5_badge20.png) |
 | placeholder | 指定关于所需数据类型的提示 | ![](/image/html5_badge20.png) |
 
-| size | 通过指定文本框中可见的字符数目设定其宽度 |  |
 
 input元素输入密码（password）
 
@@ -327,6 +326,8 @@ input元素输入密码（password）
 | readonly | 不影响其外观，用来将文本框设为只读以阻止用户编辑其内容 | |
 | disabled | 文本框显示灰色，并且禁止编辑其中的文字 | |
 | required | 表示用户必须输入一个值，否则无法通过输入验证 | ![](/image/html5_badge20.png) |
+| size | 通过指定文本框中可见的字符数目设定其宽度 | |
+
 
 
 
