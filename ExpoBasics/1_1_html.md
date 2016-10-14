@@ -291,16 +291,16 @@ meta的用法：
 
 | 属性 | 属性值 | 作用 | html? |
 | :---- | :-------------- | :-----| :-----|
-| type | text | 文本框 |
-|  | password | 密码框 |
-|  | hidden | 隐藏域 |
-|  | radio | 单选框 |
-|  | checkbox | 多选框 |
-|  | button | 按钮 |
-|  | reset | 重置 |
-|  | image | 图片按钮 |
-|  | submit | 提交 |
-|  | number | 生成输入框只获取数据 |
+| type | text | 文本框 |  |
+|  | password | 密码框 |  |
+|  | hidden | 隐藏域 |  |
+|  | radio | 单选框 |  | 
+|  | checkbox | 多选框 |  |
+|  | button | 按钮 |  |
+|  | reset | 重置 |  |
+|  | image | 图片按钮 |  |
+|  | submit | 提交 |  |
+|  | number | 生成输入框只获取数据 | ![](/image/html5_badge20.png) |
 
 
 input元素输入文字(text)
