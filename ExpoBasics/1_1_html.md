@@ -310,7 +310,7 @@ input元素输入文字
 | maxlength | 输入字符最大数目 | |
 | pattern | 输入验证的正则表达式 | ![](/image/html5_badge20.png) |
 | placeholder | 指定关于所需数据类型的提示 | ![](/image/html5_badge20.png) |
-
+| readonly | 用来将文本框设为只读以阻止用户编辑其内容 | ![](/image/html5_badge20.png) |
 | 属性 | 属性值 | 作用 |
 | :---- | :-------------- | :-----|
 | value | | 用于设置默认值(text,password,button) |
