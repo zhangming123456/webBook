@@ -306,22 +306,11 @@ meta的用法：
 |  | 
 
 
-input元素输入文字(text)
-
-| 属性 | 说明 | 是否HTML5 |
-| :---------- | :-------------- |
-| dirname | 指定元素内容文字方向的名称 | ![](/image/html5_badge20.png) |
-| list | 指定为文本框提供建议值的datalist元素，其值为datalist元素的id值 | ![](/image/html5_badge20.png) |
-
-
-
-input元素输入密码（password）
-
-| 属性 | 说明 | 是否HTML5 |
-| :---------- | :-------------- |
 
 | 属性 | 属性值 | 作用 | HTML5? | 作用域 |
 | :---- | :----- | :----: | :---- |
+| dirname | | 指定元素内容文字方向的名称 | ![](/image/html5_badge20.png) | input>text |
+| list | | 指定为文本框提供建议值的datalist元素，其值为datalist元素的id值 | ![](/image/html5_badge20.png) | input>text |
 | value | | 用于设置默认值(text,password,button) |  |  |
 | maxlength | | 输入字符最大数目 | | |
 | readonly | |不影响其外观，用来将文本框设为只读以阻止用户编辑其内容 | | |
