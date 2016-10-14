@@ -300,6 +300,7 @@ meta的用法：
 |  | reset | 重置 |
 |  | image | 图片按钮 |
 |  | submit | 提交 |
+|  | number | 生成输入框只获取数据 |
 
 
 input元素输入文字(text)
