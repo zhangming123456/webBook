@@ -71,3 +71,14 @@ word-spacing: normal | < length >
 
 >用于设置西文中词与词的间距或标签直接的距离则需要使用 word-spacing。
 
+** 改变文字颜色 **
+
+color: <color>
+
+element { color: red; } element { color: #f00; } element { color: #ff0000; } element { color: rgb(255,0,0); } element { color: rgb(100%, 0%, 0%); } element { color: hsl(0, 100%, 50%); }
+
+/* 50% translucent */ element { color: rgba(255, 0, 0, 0.5); } element { color: hsla(0, 100%, 50%, 0.5); }
+
+/* 全透明 */ element { color: transparent' } element { color: rgba(0, 0, 0, 0); }
+
+
