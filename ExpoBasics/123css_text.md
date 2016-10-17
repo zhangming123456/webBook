@@ -185,4 +185,4 @@ Wrap
 | nowrap文本不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。
 | pre-wrap保留空白符序列，但是正常地进行换行。
 | pre-line合并空白符序列，但是保留换行符。
-|inherit规定应该从父元素继承 white-space 属性的值。
+| inherit规定应该从父元素继承 white-space 属性的值。
