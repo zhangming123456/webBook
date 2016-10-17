@@ -220,8 +220,6 @@ cursor: [< uri >,]*[auto | default | none | help | pointer | zoom-in | zoom-out 
     cursor: pointer;
     cursor: url(image-name.cur), pointer; /* 当 uri 失效时或者则会起作用 */
 
-
-
 ** 强制继承 **
 
 inherit 会强制继承父元素的属性值。
