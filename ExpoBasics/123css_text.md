@@ -135,5 +135,5 @@ pre 行为同 < pre > 一致。
 | pre-line | 合并空白符序列，但是保留换行符。 | Preserve | Collapse | Wrap |
 | inherit | 规定应该从父元素继承 white-space 属性的值。 |  |  |  |
 
->NOTE: New lines：换行，Spaces and tabs：空格，Text wrapping：自动换行，Preseve：保留格式，Collapse：不保留，Wrap：换行。
+>NOTE: New lines：换行，Spaces and tabs：空格，Text wrapping：自动换行，Preseve：保留格式，Collapse：不保留，Wrap：换行，No Wrap：不换行。
 
