@@ -143,7 +143,7 @@ pre 行为同 < pre > 一致。
 
 word-wrap: normal | break-word
 
->NOTE：允许长单词自动换行。
+>NOTE：break-word 在长单词或 URL 地址内部进行自动换行。
 
 word-break: normal | break-all | keep-all
 
