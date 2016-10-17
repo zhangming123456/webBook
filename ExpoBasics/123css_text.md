@@ -159,7 +159,7 @@ word-spacing:normal | length | inherit
 
 ** 文字阴影 **css3
 
-text-shadow:none | < shadow-t ># 或 text-shadow:none | [h-shadow v-shadow [ blur || color ]?]#
+text-shadow:none | < shadow-t ># 或 text-shadow:none | [h-shadow v-shadow [ blur || color ]? ]#
 
     p { text-shadow: 1px 1px 1px #000, 3px 3px 5px blue; }
 
