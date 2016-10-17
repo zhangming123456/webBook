@@ -62,7 +62,7 @@ normal 值为浏览器决定，在1.1至1.2之间（通常设置值为1.14左右
 
 letter-spacing: normal | < length >
 
->其用于设置字间距或者字母间距，此属性适用于中文或西文中的字母。 
+>用于设置字间距或者字母间距，此属性适用于中文或西文中的字母。 
 
 word-spacing: normal | < length >
 
