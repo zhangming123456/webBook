@@ -8,5 +8,6 @@
                 * [1-2-1、认识CSS](ExpoBasics/1_2_1_css.md)
                 * [1-2-2、css选择器与三大特性](ExpoBasics/122css.md)
                 * [1-2-3、css文本](ExpoBasics/123css_text.md)
+                * [124cssbackground](ExpoBasics/124css_background.md)
         * [第二章：JavaScript](ExpoBasics/2_javascript.md)
 
