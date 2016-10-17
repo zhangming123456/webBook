@@ -21,6 +21,7 @@ NOTE：以上两值在开发中并不常用。2em 与 200% 都为父元素默认
 ** 改变字体**
 
 font-family: [ < family-name > | < generic-family > ]#
+
 < generic-family > 可选选项，但具体使用字体由浏览器决定
 
 * serif
@@ -29,13 +30,9 @@ font-family: [ < family-name > | < generic-family > ]#
 * fantasy
 * Monospace
 
-
-
 font-family: arial, Verdana, sans-serif;
 
-
-
-NOTE：优先使用靠前的字体
+>NOTE：优先使用靠前的字体
 
 
 
