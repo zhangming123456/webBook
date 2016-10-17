@@ -6,6 +6,9 @@ font: [< font-style >||< font-variant >||< font-weight >]?< font-size >[/< line-
 
 >font：【斜体+粗体（2选1）】 大小 【/行距】 字体
 
+》NOTE：当其他值为空时，均被设置为默认值。
+
+
 ** 改变字号 **
 
 font-size: < absolute-size > | < relative-size > | < length > | < percentage > | inherit
