@@ -226,7 +226,5 @@ cursor: [< uri >,]*[auto | default | none | help | pointer | zoom-in | zoom-out 
 
 inherit 会强制继承父元素的属性值。
 
-font-size: inherit; font-family: inherit; font-weight: inherit; ... word-wrap: inherit; work-break: inherit text-showdow: inherit
-
 >NOTE：具体在使用时可查询文档
 
