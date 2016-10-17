@@ -23,17 +23,11 @@ NOTE：以上两值在开发中并不常用。2em 与 200% 都为父元素默认
 font-family: [ < family-name > | < generic-family > ]#
 < generic-family > 可选选项，但具体使用字体由浏览器决定
 
-
-
-serif
-
-sans-serif
-
-cursive
-
-fantasy
-
-Monospace
+* serif
+* sans-serif
+* cursive
+* fantasy
+* Monospace
 
 
 
