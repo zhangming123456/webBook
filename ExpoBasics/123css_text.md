@@ -10,10 +10,11 @@ font: [< font-style >||< font-variant >||< font-weight >]?< font-size >[/< line-
 
 font-size: < absolute-size > | < relative-size > | < length > | < percentage > | inherit
 
-* < absolute-size > 有 small large medium
+* < absolute-size > 有 small（大）large（中） medium（小）
 * < relative-size > 有 smaller larger
 
 >例:12px|16px|2em|200%
+
 
 
 
