@@ -30,21 +30,15 @@ font-family: [ < family-name > | < generic-family > ]#
 * fantasy 幻体
 * Monospace 等宽字体
 
-font-family: arial, Verdana, sans-serif;
+例：font-family: "宋体", arial, Verdana, sans-serif;
 
 >NOTE：优先使用靠前的字体
 
-
-
-加粗字体
-
-
+** 加粗字体 **
 
 font-weight: normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900
 
-
-
-font-weight: normal; font-weight: bold;
+例：font-weight: normal; font-weight: bold;
 
 
 
