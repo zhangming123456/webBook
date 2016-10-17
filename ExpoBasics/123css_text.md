@@ -154,3 +154,36 @@ word-break: normal | break-all | keep-all
 word-spacing:normal | length | inherit
 
 >NOTE:length 定义单词间的固定空间。
+
+##文本装饰
+
+** 文字阴影 **
+
+text-shadow:none | < shadow-t ># 或 text-shadow:none | [< length >{2,3}&&< color >?]#
+
+
+
+p { text-shadow: 1px 1px 1px #000, 3px 3px 5px blue; }
+
+
+
+value = The X-coordinate X 轴偏移像素
+
+value = The Y-coordinate Y 轴偏移像素
+
+value = The blur radius 阴影模糊半径
+
+value = The color of the shadow 阴影颜色（默认为文字颜色）
+
+
+
+文本装饰（下划线等）
+
+
+
+text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text-decoration-color'>
+
+
+
+h1.under { text-decoration: underline; } h1.over { text-decoration: overline; } p.line { text-decoration: line-through; } p.blink { text-decoration: blink; } a.none { text-decoration: none; } p.underover { text-decoration: underline overline; }
+
