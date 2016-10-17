@@ -139,3 +139,12 @@ pre 行为同 < pre > 一致。
 
 >常用：white-space: pre-wrap;
 
+** 文字换行 **
+
+word-wrap: normal | break-word
+
+>NOTE：允许长单词自动换行。
+
+word-break: normal | break-all | keep-all
+
+>NOTE：break-all 单词中的任意字母间都可以换行
