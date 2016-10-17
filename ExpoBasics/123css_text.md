@@ -157,15 +157,11 @@ word-spacing:normal | length | inherit
 
 ##文本装饰
 
-** 文字阴影 **
+** 文字阴影 **css3
 
 text-shadow:none | < shadow-t ># 或 text-shadow:none | [< length >{2,3}&&< color >?]#
 
-
-
-p { text-shadow: 1px 1px 1px #000, 3px 3px 5px blue; }
-
-
+    p { text-shadow: 1px 1px 1px #000, 3px 3px 5px blue; }
 
 value = The X-coordinate X 轴偏移像素
 
