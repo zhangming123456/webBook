@@ -40,16 +40,9 @@ font-weight: normal（正常） | bold（粗体） | bolder（更粗） | lighte
 
 例：font-weight: normal; font-weight: bold;
 
-
-
-倾斜字体
-
-
+** 倾斜字体 **
 
 font-style: normal | italic | oblique | inherit
 
-
-
 italic 使用字体中的斜体，而 oblique 在没有斜体字体时强制倾斜字体。
 
- �
