@@ -181,7 +181,7 @@ text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text
 
 ##高级设置
 
-省略字符
+** 省略字符 **
 
 text-overflow: [ clip | ellipsis | <string> ]{1,2}
 
@@ -190,9 +190,7 @@ text-overflow: [ clip | ellipsis | <string> ]{1,2}
 * overflow: hidden;/\* 溢出截取 \*/ 
 * white-space: nowrap; /\* 禁止换行 \*/
 
-
-
-更换鼠标形状
+** 更换鼠标形状 **
 
 
 
