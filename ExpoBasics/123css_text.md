@@ -192,35 +192,22 @@ text-overflow: [ clip | ellipsis | <string> ]{1,2}
 
 ** 更换鼠标形状 **
 
-
-
 cursor: [[<funciri>,]* [ auto | crosshair | default | pointer | move | e-resize | ne-resize | nw-resize | n-resize | se-resize | sw-resize | s-resize | w-resize| text | wait | help ]] | inherit
-
-
 
 常用属性
 
-
-
 cursor: [<uri>,]*[auto | default | none | help | pointer | zoom-in | zoom-out | move]
 
-
-
-<uri> 图片资源地址代替鼠标默认形状
-
-<default> 默认光标
-
-<none> 隐藏光标
-
-<pointer> 手型光标
-
-<zoom-in>
-
-<zoom-out>
-
-<move>
-
-cursor: pointer; cursor: url(image-name.cur), pointer; /* 当 uri 失效时或者则会起作用 */
+* < uri > 图片资源地址代替鼠标默认形状
+* < default > 默认光标
+* < none > 隐藏光标
+* < pointer > 手型光标
+* < zoom-in >
+* < zoom-out >
+* < move >
+    
+    cursor: pointer;
+    cursor: url(image-name.cur), pointer; /* 当 uri 失效时或者则会起作用 */
 
 
 
