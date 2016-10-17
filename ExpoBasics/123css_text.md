@@ -187,8 +187,8 @@ text-overflow: [ clip | ellipsis | <string> ]{1,2}
 
 >常用配合
 * text-overflow: ellipsis; 
-* overflow: hidden; /* 溢出截取 */ 
-* white-space: nowrap; /* 禁止换行 */
+* overflow: hidden;/\* 溢出截取 \*/ 
+* white-space: nowrap; /\* 禁止换行 \*/
 
 
 
