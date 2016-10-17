@@ -85,5 +85,13 @@ color: < color > | inherit
 
 ##对齐方式
 
+** 文字居中 **
+
+text-align: start | end | left | right | center | justify | match-parent | start end
+
+NOTE：默认为文本左对齐。
+
+
+
 
 
