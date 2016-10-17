@@ -10,15 +10,8 @@ font: [< font-style >||< font-variant >||< font-weight >]?< font-size >[/< line-
 
 font-size: < absolute-size > | < relative-size > | < length > | < percentage > | inherit
 
-
-
-< absolute-size > 有 small large medium
-
-< relative-size > 有 smaller larger
-
-
-
-div
+* < absolute-size > 有 small large medium
+* < relative-size > 有 smaller larger
 
  font-size 12px p#sample0 font-size 16px p#sample1 font-size 2em p#sample2 font-size 200%
 
