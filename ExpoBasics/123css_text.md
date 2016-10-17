@@ -13,7 +13,7 @@ font-size: < absolute-size > | < relative-size > | < length > | < percentage > |
 * < absolute-size > 有 small large medium
 * < relative-size > 有 smaller larger
 
-    例:12px|16px|2em|200%
+>例:12px|16px|2em|200%
 
 
 
