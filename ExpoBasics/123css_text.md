@@ -179,19 +179,16 @@ text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text
 * blink：定义闪烁的文本。
 * inherit：规定应该从父元素继承 text-decoration 属性的值。
 
-高级设置
-
-
+##高级设置
 
 省略字符
 
-
-
 text-overflow: [ clip | ellipsis | <string> ]{1,2}
 
-
-
-/* 常用配合 */ text-overflow: ellipsis; overflow: hidden; /* 溢出截取 */ white-space: nowrap; /* 禁止换行 */
+>常用配合
+* text-overflow: ellipsis; 
+* overflow: hidden; /* 溢出截取 */ 
+* white-space: nowrap; /* 禁止换行 */
 
 
 
@@ -231,11 +228,7 @@ cursor: pointer; cursor: url(image-name.cur), pointer; /* 当 uri 失效时或�
 
 ** 强制继承 **
 
-
-
 inherit 会强制继承父元素的属性值。
-
-
 
 font-size: inherit; font-family: inherit; font-weight: inherit; ... word-wrap: inherit; work-break: inherit text-showdow: inherit
 
