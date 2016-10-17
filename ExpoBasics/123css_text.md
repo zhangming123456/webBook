@@ -149,7 +149,7 @@ word-break: normal | break-all | keep-all
 
 >NOTE：break-all 单词中的任意字母间都可以换行，keep-all 只能在半角空格或连字符处换行
 
-指定段字之间的空间
+** 指定段字之间的空间 **
 
 word-spacing:normal | length | inherit
 
