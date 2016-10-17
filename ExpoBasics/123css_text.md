@@ -36,7 +36,7 @@ font-family: [ < family-name > | < generic-family > ]#
 
 ** 加粗字体 **
 
-font-weight: normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900
+font-weight: normal（正常） | bold（粗体） | bolder（更粗） | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900
 
 例：font-weight: normal; font-weight: bold;
 
