@@ -174,5 +174,3 @@ text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text
 
 
 
-h1.under { text-decoration: underline; } h1.over { text-decoration: overline; } p.line { text-decoration: line-through; } p.blink { text-decoration: blink; } a.none { text-decoration: none; } p.underover { text-decoration: underline overline; }
-
