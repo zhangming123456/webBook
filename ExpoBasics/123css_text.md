@@ -106,8 +106,8 @@ vertical-align: baseline | sub | super | text-top | text-bottom | middle | top |
 | middle | 把此元素放置在父元素的中部。
 | bottom | 把元素的顶端与行中最低的元素的顶端对齐。 
 | text-bottom | 把元素的底端与父元素字体的底端对齐。|
-| length |  |
-| % | 使用 "line-height" 属性的百分比值来排列此元素。允许使用负值。|
+| length | px em |
+| parcentage | % 使用 "line-height" 属性的百分比值来排列此元素。允许使用负值。|
 | inherit | 规定应该从父元素继承 vertical-align 属性的值。
 
 NOTE：< percentage >的参照物为line-height
