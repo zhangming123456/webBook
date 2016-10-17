@@ -94,9 +94,9 @@ NOTE：默认为文本左对齐。
 
 ** 文本垂直对齐 **
 
-vertical-align: baseline | sub | super | text-top | text-bottom | middle | top | bottom | <percentage> | <length>
+vertical-align: baseline | sub | super | text-top | text-bottom | middle | top | bottom | < percentage > | <length>
 
-NOTE：<percentage>的参照物为line-height
+NOTE：< percentage >的参照物为line-height
 
 
 
