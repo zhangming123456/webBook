@@ -192,11 +192,11 @@ text-overflow: [ clip | ellipsis | <string> ]{1,2}
 
 ** 更换鼠标形状 **
 
-cursor: [[<funciri>,]* [ auto | crosshair | default | pointer | move | e-resize | ne-resize | nw-resize | n-resize | se-resize | sw-resize | s-resize | w-resize| text | wait | help ]] | inherit
+cursor: [[< funciri >,]* [ auto | crosshair | default | pointer | move | e-resize | ne-resize | nw-resize | n-resize | se-resize | sw-resize | s-resize | w-resize| text | wait | help ]] | inherit
 
 常用属性
 
-cursor: [<uri>,]*[auto | default | none | help | pointer | zoom-in | zoom-out | move]
+cursor: [< uri >,]*[auto | default | none | help | pointer | zoom-in | zoom-out | move]
 
 * url：需使用的自定义光标的 URL。
 >注释：请在此列表的末端始终定义一种普通的光标，以防没有由 URL 定义的可用光标。
