@@ -178,3 +178,66 @@ text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text
 * line-through：定义穿过文本下的一条线。
 * blink：定义闪烁的文本。
 * inherit：规定应该从父元素继承 text-decoration 属性的值。
+
+高级设置
+
+
+
+省略字符
+
+
+
+text-overflow: [ clip | ellipsis | <string> ]{1,2}
+
+
+
+/* 常用配合 */ text-overflow: ellipsis; overflow: hidden; /* 溢出截取 */ white-space: nowrap; /* 禁止换行 */
+
+
+
+更换鼠标形状
+
+
+
+cursor: [[<funciri>,]* [ auto | crosshair | default | pointer | move | e-resize | ne-resize | nw-resize | n-resize | se-resize | sw-resize | s-resize | w-resize| text | wait | help ]] | inherit
+
+
+
+常用属性
+
+
+
+cursor: [<uri>,]*[auto | default | none | help | pointer | zoom-in | zoom-out | move]
+
+
+
+<uri> 图片资源地址代替鼠标默认形状
+
+<default> 默认光标
+
+<none> 隐藏光标
+
+<pointer> 手型光标
+
+<zoom-in>
+
+<zoom-out>
+
+<move>
+
+cursor: pointer; cursor: url(image-name.cur), pointer; /* 当 uri 失效时或者则会起作用 */
+
+
+
+** 强制继承 **
+
+
+
+inherit 会强制继承父元素的属性值。
+
+
+
+font-size: inherit; font-family: inherit; font-weight: inherit; ... word-wrap: inherit; work-break: inherit text-showdow: inherit
+
+>NOTE：具体在使用时可查询文档
+
