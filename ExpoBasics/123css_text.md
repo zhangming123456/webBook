@@ -46,9 +46,7 @@ font-style: normal | italic | oblique | inherit
 
 italic 使用字体中的斜体，而 oblique 在没有斜体字体时强制倾斜字体。
 
-更改行距
-
-
+** 更改行距 **
 
 line-height: normal | < number > | < length > | < percentage >
 
