@@ -24,8 +24,8 @@ font-family: [ < family-name > | < generic-family > ]#
 
 < generic-family > 可选选项，但具体使用字体由浏览器决定
 
-* serif
-* sans-serif
+* serif 衬线体
+* sans-serif 灯芯体(无衬线字体)
 * cursive
 * fantasy
 * Monospace
