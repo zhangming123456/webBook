@@ -12,9 +12,9 @@ font-size: < absolute-size > | < relative-size > | < length > | < percentage > |
 
 
 
-<absolute-size> 有 small large medium
+< absolute-size > 有 small large medium
 
-<relative-size> 有 smaller larger
+< relative-size > 有 smaller larger
 
 
 
