@@ -11,7 +11,7 @@ font: [< font-style >||< font-variant >||< font-weight >]?< font-size >[/< line-
 font-size: < absolute-size > | < relative-size > | < length > | < percentage > | inherit
 
 * absolute-size（决定大小）：small（大）large（中） medium（小）
-* relative-size（相对大小）：smaller larger
+* relative-size（相对大小）：smaller（更小） larger（更大）
 
 >例:12px|16px|2em|200%
 
