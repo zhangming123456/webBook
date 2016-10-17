@@ -127,7 +127,7 @@ white-space: normal | pre | nowrap | pre-wrap | pre-line
 pre 行为同 < pre > 一致。
 
 | 值 | 描述 | New lines | Spaces and tabs | Text wrapping| 
-| :--- | :--- | :---------- | :-------- | :------------ |
+| :--- | :------------------------ | :---------- | :-------- | :------------ |
 | normal | 默认。空白会被浏览器忽略。 |  Collapse | Collapse | Wrap |
 | pre | 空白会被浏览器保留。其行为方式类似HTML 中的< pre > 标签。 | Preserve | Preserve | No Wrap |
 | nowrap | 文本不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。 | Collapse | Collapse | No Wrap |
