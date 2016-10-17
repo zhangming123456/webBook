@@ -177,11 +177,11 @@ Collapse
 Wrap
 
 
-| 值 | 描述 | New lines | Spaces and tabs | Text wrapping|
+| 值 | 描述 | New lines | Spaces and tabs | Text wrapping| 
 | :--- | :--- | :--- | :--- | :--- |
-| normal | 默认。空白会被浏览器忽略。
-| pre | 空白会被浏览器保留。其行为方式类似HTML 中的< pre > 标签。 | 
-| nowrap | 文本不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。 | 
-| pre-wrap | 保留空白符序列，但是正常地进行换行。 | 
-| pre-line | 合并空白符序列，但是保留换行符。 | 
-| inherit | 规定应该从父元素继承 white-space 属性的值。 | 
+| normal | 默认。空白会被浏览器忽略。 |  Collapse | Collapse | Wrap |
+| pre | 空白会被浏览器保留。其行为方式类似HTML 中的< pre > 标签。 | Collapse | Collapse | Wrap |
+| nowrap | 文本不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。 | Collapse | Collapse | Wrap |
+| pre-wrap | 保留空白符序列，但是正常地进行换行。 | Collapse | Collapse | Wrap |
+| pre-line | 合并空白符序列，但是保留换行符。 | Collapse | Collapse | Wrap |
+| inherit | 规定应该从父元素继承 white-space 属性的值。 | Collapse | Collapse | Wrap |
