@@ -163,13 +163,10 @@ text-shadow:none | [ h-shadow v-shadow [ blur || color ]? ]#
 
     p { text-shadow: 1px 1px 1px #000, 3px 3px 5px blue; }
 
-value = The X-coordinate X 轴偏移像素
-
-value = The Y-coordinate Y 轴偏移像素
-
-value = The blur radius 阴影模糊半径
-
-value = The color of the shadow 阴影颜色（默认为文字颜色）
+* h-shadow = The X-coordinate X 轴偏移像素
+* v-shadow = The Y-coordinate Y 轴偏移像素
+* blur = The blur radius 阴影模糊半径
+* color = The color of the shadow 阴影颜色（默认为文字颜色）
 
 
 
