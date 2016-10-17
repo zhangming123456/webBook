@@ -145,6 +145,6 @@ word-wrap: normal | break-word
 
 >NOTE：允许长单词自动换行。
 
-word-break: normal | break-all | keep-all
+word-break: normal | break-all(允许在单词内换行) | keep-all(只能在半角空格或连字符处换行)
 
 >NOTE：break-all 单词中的任意字母间都可以换行
