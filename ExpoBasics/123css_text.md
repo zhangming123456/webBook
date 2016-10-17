@@ -116,3 +116,64 @@ vertical-align: baseline | sub | super | text-top | text-bottom | middle | top |
 text-indent: < length > | < percentage > && [ hanging || each-line ]
 
 >NOTE：缩进两个字可使用 text-indent: 2em;
+
+
+##格式处理
+
+** 保留空格格式 **
+
+white-space: normal | pre | nowrap | pre-wrap | pre-line
+
+pre 行为同 < pre > 一致。
+
+
+
+
+
+New lines
+
+Spaces and tabs
+
+Text wrapping
+
+normal
+
+Collapse
+
+Collapse
+
+Wrap
+
+nowrap
+
+Collapse
+
+Collapse
+
+No wrap
+
+pre
+
+Preserve
+
+Preserve
+
+No wrap
+
+pre-wrap
+
+Preserve
+
+Preserve
+
+Wrap
+
+pre-line
+
+Preserve
+
+Collapse
+
+Wrap
+
+值描述normal默认。空白会被浏览器忽略。pre空白会被浏览器保留。其行为方式类似 HTML 中的 <pre> 标签。nowrap文本不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。pre-wrap保留空白符序列，但是正常地进行换行。pre-line合并空白符序列，但是保留换行符。inherit规定应该从父元素继承 white-space 属性的值。
