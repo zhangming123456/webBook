@@ -80,13 +80,8 @@ color: < color > | inherit
 | color_name | 规定颜色值为颜色名称的颜色（比如 red）。 |
 | hex_number | 规定颜色值为十六进制值的颜色（比如 #ff0000）。 |
 | rgb_number | 规定颜色值为 rgb 代码的颜色（比如 rgb(255,0,0)）。|
+| rgba_number | 与 rgb 相同，a 代表透明度 |
 | inherit | 规定应该从父元素继承颜色。 |
 
-
-element { color: red; } element { color: #f00; } element { color: #ff0000; } element { color: rgb(255,0,0); } element { color: rgb(100%, 0%, 0%); } element { color: hsl(0, 100%, 50%); }
-
-/* 50% translucent */ element { color: rgba(255, 0, 0, 0.5); } element { color: hsla(0, 100%, 50%, 0.5); }
-
-/* 全透明 */ element { color: transparent' } element { color: rgba(0, 0, 0, 0); }
 
 
