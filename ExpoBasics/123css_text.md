@@ -26,9 +26,9 @@ font-family: [ < family-name > | < generic-family > ]#
 
 * serif 衬线体
 * sans-serif 灯芯体(无衬线字体)
-* cursive
-* fantasy
-* Monospace
+* cursive 草书
+* fantasy 幻体
+* Monospace 等宽字体
 
 font-family: arial, Verdana, sans-serif;
 
