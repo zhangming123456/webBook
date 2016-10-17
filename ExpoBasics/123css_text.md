@@ -1,6 +1,6 @@
 ##文本
 
-####字体
+###字体
 
 font:[ [< font-style > || <'font-variant'> || < font-weight > || <'font-stretch'> ]? < font-size > [/< line-height >]? < font-family > ] | caption | icon | menu | message-box | small-caption | status-bar
 
@@ -82,6 +82,8 @@ color: < color > | inherit
 | rgb_number | 规定颜色值为 rgb 代码的颜色（比如 rgb(255,0,0)）。|
 | rgba_number | 与 rgb 相同，a 代表透明度（比如rgba(255,230,230,0.5)。 |
 | inherit | 规定应该从父元素继承颜色。 |
+
+###对齐方式
 
 
 
