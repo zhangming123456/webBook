@@ -126,57 +126,6 @@ white-space: normal | pre | nowrap | pre-wrap | pre-line
 
 pre 行为同 < pre > 一致。
 
-
-
-
-
-New lines
-
-Spaces and tabs
-
-Text wrapping
-
-normal
-
-Collapse
-
-Collapse
-
-Wrap
-
-nowrap
-
-Collapse
-
-Collapse
-
-No wrap
-
-pre
-
-Preserve
-
-Preserve
-
-No wrap
-
-pre-wrap
-
-Preserve
-
-Preserve
-
-Wrap
-
-pre-line
-
-Preserve
-
-Collapse
-
-Wrap
-
-
 | 值 | 描述 | New lines | Spaces and tabs | Text wrapping| 
 | :--- | :--- | :--- | :--- | :--- |
 | normal | 默认。空白会被浏览器忽略。 |  Collapse | Collapse | Wrap |
@@ -185,3 +134,6 @@ Wrap
 | pre-wrap | 保留空白符序列，但是正常地进行换行。 | Preserve | Preserve | Wrap |
 | pre-line | 合并空白符序列，但是保留换行符。 | Preserve | Collapse | Wrap |
 | inherit | 规定应该从父元素继承 white-space 属性的值。 |  |  |  |
+
+>NOTE: New lines：换行，Spaces and tabs：空格，Text wrapping：自动换行，Preseve：保留格式，Collapse：不保留，Wrap：换行；
+
