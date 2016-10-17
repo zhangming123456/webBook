@@ -89,8 +89,7 @@ color: < color > | inherit
 
 text-align: start | end | left（左） | right（右） | center（居中） | justify（两端） | match-parent | start end | inherit
 
-NOTE：默认为文本左对齐。
-
+>NOTE：默认为文本左对齐。
 
 ** 文本垂直对齐 **
 
