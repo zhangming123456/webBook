@@ -113,6 +113,6 @@ vertical-align: baseline | sub | super | text-top | text-bottom | middle | top |
 
 ** 文本缩进 **
 
-text-indent: <length> | <percentage> && [ hanging || each-line ]
+text-indent: < length > | < percentage > && [ hanging || each-line ]
 
 NOTE：缩进两个字可使用 text-indent: 2em;
