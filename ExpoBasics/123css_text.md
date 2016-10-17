@@ -52,7 +52,9 @@ line-height: normal | < number > | < length > | < percentage >
 
 normal 值为浏览器决定，在1.1至1.2之间（通常设置值为1.14左右）
 
-/* length 类型 */ line-height: 40px; line-height: 3em; /* percentage 类型 */ line-height: 300%; /* number 类型 */ line-height: 3;
+* length 类型:line-height: 40px; line-height: 3em; 
+* percentage 类型：line-height: 300%;
+* number 类型：line-height: 3;
 
 >NOTE：当line-height为 number 类型时，子类直接继承其数值（不计算直接继承）。 而当为percentage 类型时，子类则会先计算再显示（先计算后继承）。
 
