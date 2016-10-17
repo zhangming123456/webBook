@@ -168,11 +168,7 @@ text-shadow:none | [ h-shadow v-shadow [ blur || color ]? ]#
 * blur = The blur radius 阴影模糊半径
 * color = The color of the shadow 阴影颜色（默认为文字颜色）
 
-
-
-文本装饰（下划线等）
-
-
+** 文本装饰（下划线等） **
 
 text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text-decoration-color'>
 
