@@ -73,7 +73,7 @@ word-spacing: normal | < length >
 
 ** 改变文字颜色 **
 
-color: <color>
+color: < color > |inherit
 
 | 值 | 描述 |
 | :--- | :--- |
