@@ -178,5 +178,3 @@ text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text
 * line-through：定义穿过文本下的一条线。
 * blink：定义闪烁的文本。
 * inherit：规定应该从父元素继承 text-decoration 属性的值。
-
-
