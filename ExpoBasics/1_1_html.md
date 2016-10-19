@@ -29,7 +29,7 @@ HTML与XHTML包括的文档类型
 | XHTML | HTML Strict DTD | 请求比较严格的html类型 |
 |  | HTML Transitional DTD | 相对而言比较规范不太严禁 |
 |  | Frameset DTD | 框架级的类型 |
-| HTML5 |  |  |
+| HTML5 |  | 无 |
 
 | 元素 | 说明 | 备注 |
 | :---- | :----- |
