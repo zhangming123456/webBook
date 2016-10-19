@@ -5,3 +5,7 @@ background: [< background-color > || < background-image > || < background-repeat
 ##背景颜色
 
 background-color
+
+##背景图片
+
+background-image: < bg-image >[, < bg-image >]*
