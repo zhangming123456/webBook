@@ -8,4 +8,4 @@ background-color: < color >;
 
 ##背景图片
 
-background-image: < bg-image >[, < bg-image >]*
+background-image: < bg-image >[, < bg-image >]*;
