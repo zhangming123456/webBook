@@ -16,4 +16,15 @@ background-image: < bg-image >[, < bg-image >]*;
 
 ** 背景是否平铺 **
 
+background-repeat: <repeat-style>[, <repeat-style]*;
+
+<repeat-style> = repeat-x | repeat-y | [repeat | space | round | no-repeat]{1,2};
+
+no-repeat:不平铺
+
+repeat-x：在水平方向上平铺
+
+repeat-y:在垂直方向上平铺
+
+repeat:平铺
 
