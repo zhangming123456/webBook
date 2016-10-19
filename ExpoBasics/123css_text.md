@@ -217,9 +217,9 @@ cursor: [< uri >,]*[auto | default | none | help | pointer | zoom-in | zoom-out 
 * wait：此光标指示程序正忙（通常是一只表或沙漏）。
 * help：此光标指示可用的帮助（通常是一个问号或一个气球）。
     
-    cursor: pointer;
+>cursor: pointer;
 
-    cursor: url(image-name.cur), pointer; /\* 当 uri 失效时或者则会起作用 \*/
+>cursor: url(image-name.cur), pointer; /\* 当 uri 失效时或者则会起作用 \*/
 
 ** 强制继承 **
 
