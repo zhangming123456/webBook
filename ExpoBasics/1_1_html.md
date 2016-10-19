@@ -317,7 +317,7 @@ meta的用法：
 | required | | 表示用户必须输入一个值，否则无法通过输入验证 | ![](/image/html5_badge20.png) | |
 | pattern | | 输入验证的正则表达式 | ![](/image/html5_badge20.png) | |
 | placeholder | | 指定关于所需数据类型的提示 | ![](/image/html5_badge20.png) | |
-| size | | 通过指定文本框中可见的字符数目设定其宽度 | | |
+| size | | 通过指定文本框中可见的字符数目设定其宽度 |  |  |
 
 
 
