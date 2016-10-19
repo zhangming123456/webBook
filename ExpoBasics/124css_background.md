@@ -28,3 +28,4 @@ background-repeat: < repeat-style >[, < repeat-style ]*;
 
 * repeat:平铺
 
+** 背景图片的位置 **
