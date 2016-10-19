@@ -4,7 +4,7 @@ background: [< background-color > || < background-image > || < background-repeat
 
 ##背景颜色
 
-background-color
+background-color: < color >;
 
 ##背景图片
 
