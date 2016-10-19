@@ -20,11 +20,11 @@ background-repeat: < repeat-style >[, < repeat-style ]*;
 
 < repeat-style > = repeat-x | repeat-y | [repeat | space | round | no-repeat]{1,2};
 
-no-repeat:不平铺
+* no-repeat:不平铺
 
-repeat-x：在水平方向上平铺
+* repeat-x：在水平方向上平铺
 
-repeat-y:在垂直方向上平铺
+* repeat-y:在垂直方向上平铺
 
-repeat:平铺
+* repeat:平铺
 
