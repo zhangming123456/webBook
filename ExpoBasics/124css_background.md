@@ -56,7 +56,7 @@ background-position: < position >[, < position >]*;
 
 或
 
-    background: url(sprite.png) no-repeat 0 -100px
+    background: url(sprite.png) no-repeat 0 -100px;
 
 
 
