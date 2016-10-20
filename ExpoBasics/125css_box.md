@@ -76,6 +76,8 @@ border-radius: [ < length > | < percentage > ]{1,4} [ / [ < length > | < percent
 
 overflow: visible | hidden | scroll | auto
 
+visible默认值。内容不会被修剪，会呈现在元素框之外。hidden内容会被修剪，并且其余内容是不可见的。scroll内容会被修剪，但是浏览器会显示滚动条以便查看其余的内容。auto如果内容被修剪，则浏览器会显示滚动条以便查看其余的内容。inherit规定应该从父元素继承 overflow 属性的值。
+
 >NOTE：默认属性为 visible。使用 overflow-x 与 overflow-y 单独的设置水平和垂直方向的滚动条。
 
 
