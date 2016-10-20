@@ -8,8 +8,6 @@ background: [< background-color > || < background-image > || < background-repeat
 
 [< bg-layer >,]* < final-bg-layer >
 
-
-
 < bg-layer > = < bg-image > || < position > [/ < bg-size >]? || < repeat-style > || < attachment > || < box > || < box >
 
 >两个 < box > 第一个为 background-origin
