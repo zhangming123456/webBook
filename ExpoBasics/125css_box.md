@@ -23,3 +23,5 @@
 ** 内容盒子宽 **
 
 width：< length > | < percentage > | auto | inherit
+
+>NOTE：通常情况下百分比得参照物为元素的父元素。max-width 与 min-width 可以设置最大与最小宽度。
