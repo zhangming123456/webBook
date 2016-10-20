@@ -40,6 +40,17 @@ padding: [< length > | < percentage >]{1,4} | inherit
 
 margin(外边距): [< length > | < percentage > | auto]{1,4} | inherit
 
+说明：盒子与盒子之间的距离。
+
+* 外边距不会影响盒子大小
+* 取值
+* 外边距合并问题
+    * 垂直显示的盒子
+    * 盒子嵌套（外边距合并）
+        * 给父盒子设置border值
+        * 给父盒子设置overflow:hidden；
+
+
 >NOTE：margin 默认值为 auto
 
 
