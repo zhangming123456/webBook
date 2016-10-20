@@ -110,3 +110,8 @@ box-shadown: none | [inset? && [ < offset-x > < offset-y > < blur-radius >? < sp
 >NOTE：水平与垂直偏移可以为负值即相反方向偏移。颜色默认为文字颜色。阴影不占据空间，仅为修饰效果。
 
 ** Outline **
+
+作用：outline（轮廓）是绘制于元素周围的一条线，位于边框边缘的外围，可起到突出元素的作用。
+
+>outline简写属性在一个声明中设置所有的轮廓属性。
+可以设置的属性分别是（按顺序）：outline-color, outline-style, outline-width
