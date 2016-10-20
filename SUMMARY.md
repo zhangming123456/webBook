@@ -10,5 +10,6 @@
                 * [1-2-3、css文本](ExpoBasics/123css_text.md)
                 * [1-2-4、css背景](ExpoBasics/124css_background.md)
                 * [1-2-5、css盒模型](ExpoBasics/125css_box.md)
+                * [126csslayout](ExpoBasics/126css_layout.md)
         * [第二章：JavaScript](ExpoBasics/2_javascript.md)
 
