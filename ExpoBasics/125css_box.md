@@ -149,3 +149,4 @@ outline-width: < length > | thin | medium | thick | inherit
 ![](/image/2016box05.png)
 
 TRBL (Top, Right, Bottom, Left) 即为顺时针从顶部开始。具有四个方向的属性都可以通过 \*-top \*-right \*-bottom 与 \*-left 单独对其进行设置。
+
