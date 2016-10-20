@@ -156,7 +156,9 @@ background-size: length|percentage|cover|contain;
 
 ** background shorthand **
 
-[< bg-layer >,]* < final-bg-layer > <bg-layer> = <bg-image> || <position> [/ <bg-size>]? || <repeat-style> || <attachment> || <box> || <box>
+[< bg-layer >,]* < final-bg-layer >
+
+< bg-layer > = < bg-image > || < position > [/ < bg-size >]? || < repeat-style > || < attachment > || < box > || < box >
 
 
 
