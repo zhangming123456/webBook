@@ -183,7 +183,7 @@ text-decoration: <'text-decoration-line'> || <'text-decoration-style'> || <'text
 
 ** 省略字符 **
 
-text-overflow: [ clip | ellipsis | <string> ]{1,2}
+text-overflow: [ clip | ellipsis | < string > ]{1,2}
 
 >常用配合
 * text-overflow: ellipsis; 
