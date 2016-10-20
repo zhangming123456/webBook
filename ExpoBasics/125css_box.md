@@ -38,7 +38,6 @@ padding: [< length > | < percentage >]{1,4} | inherit
 
 Padding撑大盒子的问题
 
-
 盒子的宽度=定义的宽度+边框的宽度+padding的值
 
 ◆嵌套的盒子padding不撑大盒子
