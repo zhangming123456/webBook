@@ -65,3 +65,7 @@ border-colro(颜色): [< color > | transparent]{1,4} | inherit
 >NOTE：border-color 默认为元素字体颜色。
 
 ** border-radius(边框圆角) **
+
+/* 水平半径/垂直半径 */ border-radius: [ < length > | < percentage > ]{1,4} [ / [ < length > | < percentage > ]{1,4} ]?
+
+NOTE：四个角的分解属性由左上角顺时针附值。
