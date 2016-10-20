@@ -38,10 +38,11 @@ padding: [< length > | < percentage >]{1,4} | inherit
 
 Padding撑大盒子的问题
 
-盒子的宽度=定义的宽度+边框的宽度+padding的值
+* 盒子的宽度=定义的宽度+边框的宽度+padding的值
 
-◆嵌套的盒子padding不撑大盒子
-嵌套的盒子，如果子盒子没有定义宽度，默认父盒子的宽度，给子盒子定义Padding一般不会撑大盒子。
+嵌套的盒子padding不撑大盒子
+
+* 嵌套的盒子，如果子盒子没有定义宽度，默认父盒子的宽度，给子盒子定义Padding一般不会撑大盒子。
 
 
 ** Margin **
