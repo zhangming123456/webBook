@@ -60,7 +60,6 @@ background-position: < position >[, < position >]*;
 
 使用位置为负值将图片偏移使需要的图片位置上移并显示正确的图案。
 
-
 ###不常用属性
 
 ** background-attachment **
