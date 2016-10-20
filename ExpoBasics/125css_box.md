@@ -64,4 +64,4 @@ border-colro(颜色): [< color > | transparent]{1,4} | inherit
 
 >NOTE：border-color 默认为元素字体颜色。
 
-** border-radius **
+** border-radius(边框圆角) **
