@@ -106,3 +106,6 @@ radial-gradient( [ circle || < length > ] [ at < position > ]? , | [ ellipse || 
 ![](/image/2016barg01.png)
 ![](/image/2016barg02.png)
 
+* 重复的径向渐变
+
+repeating-radial-gradient() 函数用于重复径向渐变：
