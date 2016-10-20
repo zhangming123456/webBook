@@ -40,4 +40,14 @@ padding: [< length > | < percentage >]{1,4} | inherit
 
 margin: [< length > | < percentage > | auto]{1,4} | inherit
 
+>NOTE：margin 默认值为 auto
+
+
+
+Trick：
+
+/* 可用于水平居中 */ margin: 0 auto;
+
+margin 合并
+
 
