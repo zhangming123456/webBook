@@ -120,6 +120,9 @@ outline: [ <'outline-color'> || <'outline-style'> || <'outline-width'> ]
 
 outline-width: < length > | thin | medium | thick | inherit
 
+thin规定细轮廓。medium默认。规定中等的轮廓。thick规定粗的轮廓。length允许您规定轮廓粗细的值。
+
+
 outline-style: solid | dashed | dotted | ... | inherit
 
 * none默认。定义无轮廓。
