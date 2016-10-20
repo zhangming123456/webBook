@@ -87,3 +87,7 @@ border-radius: [ < length > | < percentage > ]{1,4} [ / [ < length > | < percent
 >NOTE：四个角的分解属性由左上角顺时针附值。
 
 ** box-sizing **
+
+作用：允许你以某种方式定义某些元素，以适应指定区域。
+
+box-sizing: content-box | border-box | inherit
