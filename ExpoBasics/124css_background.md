@@ -36,4 +36,4 @@ background-repeat: < repeat-style >[, < repeat-style ]*;
 
 background-position: < position >[, < position >]*;
 
-<position> = [left|center|right|top|bottom|<percentage>|<length>]|[left|center|right|top|bottom|<percentage>|<length>] [left|center|right|top|bottom|<percentage>|<length>] | [center |[left|right][<percentage>|<length>]?]&&[center |[left|right][<percentage>|<length>]?]
+< position > = [left | center | right | top | bottom |< percentage > | < length > ] | [left | center | right | top | bottom | < percentage > | < length >] [left | center | right | top | bottom | < percentage > | < length >] | [center | [left | right][< percentage > | < length >]? ] && [center | [left | right][< percentage > | < length >]? ]
