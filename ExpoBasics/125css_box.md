@@ -122,4 +122,4 @@ outline-width: < length > | thin | medium | thick | inherit
 
 outline-style: solid | dashed | dotted | ... | inherit
 
-outline-color: <color> | invert | inherit
+outline-color: < color > | invert | inherit
