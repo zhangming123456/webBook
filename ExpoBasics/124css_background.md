@@ -150,3 +150,6 @@ background-size: length|percentage|cover|contain;
 * percentage：将计算相对于背景定位区域的百分比。第一个值设置宽度，第二个值设置的高度。如果只给出一个值，第二个是设置为"auto(自动)"
 * cover：此时会保持图像的纵横比并将图像缩放成将完全覆盖背景定位区域的最小大小。
 * contain：此时会保持图像的纵横比并将图像缩放成将适合背景定位区域的最大大小。
+
+![](/image/2016basize01.png)
+![](/image/2016basize02.png)
