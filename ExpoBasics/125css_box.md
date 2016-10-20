@@ -25,3 +25,9 @@
 width：< length > | < percentage > | auto | inherit
 
 >NOTE：通常情况下百分比得参照物为元素的父元素。max-width 与 min-width 可以设置最大与最小宽度。
+
+** 内容盒子高 **
+
+height：< length > | < percentage > | auto | inherit
+
+>NOTE：默认情况元素的高度为内容高度。max-height 与 min-height 可以设置最大与最小高度。
