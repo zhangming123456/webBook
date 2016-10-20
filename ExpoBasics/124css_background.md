@@ -41,10 +41,7 @@ background-position: < position >[, < position >]*;
 >等同效果
 >* background-position: 50% 50%; == center center; 
 * background-position: 0 0; == left top;
-
-
-
-background-position: 100% 100%; background-position: right bottom;
+* background-position: 100% 100%; == right bottom;
 
 
 
