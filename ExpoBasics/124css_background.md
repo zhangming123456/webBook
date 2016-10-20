@@ -121,3 +121,7 @@ repeating-radial-gradient() 函数用于重复径向渐变：
 >注意：如果背景图像background-attachment是"固定"，这个属性没有任何效果。
 
 background-origin: padding-box|border-box|content-box; 
+
+* padding-box：背景图像填充框的相对位置
+* border-box：背景图像边界框的相对位置
+* content-box：背景图像的相对位置的内容框
