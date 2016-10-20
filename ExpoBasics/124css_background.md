@@ -28,4 +28,10 @@ background-repeat: < repeat-style >[, < repeat-style ]*;
 
 * repeat:平铺
 
+* space 平铺并在水平和垂直留有空隙，空隙的大小为图片均匀分布后完整覆盖显示区域的宽高
+
+* round 不留空隙平铺且覆盖显示区域，图标会被缩放以达到覆盖效果（缩放不一定等比）
+
+
 ** 背景图片的位置 **
+
