@@ -43,9 +43,8 @@ background-position: < position >[, < position >]*;
 * background-position: 0 0; == left top;
 * background-position: 100% 100%; == right bottom;
 
-
-
-/* 四个值时方向只为参照物 */ background-position: right 10px top 20px;
+>四个值时方向只为参照物 
+* background-position: right 10px top 20px;
 
 
 ###不常用属性
