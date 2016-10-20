@@ -69,3 +69,11 @@ border-colro(颜色): [< color > | transparent]{1,4} | inherit
 border-radius: [ < length > | < percentage > ]{1,4} [ / [ < length > | < percentage > ]{1,4} ]?/\* 水平半径/垂直半径 \*/ 
 
 >NOTE：四个角的分解属性由左上角顺时针附值。
+
+** Overflow **
+
+overflow: visible | hidden | scroll | auto
+
+NOTE：默认属性为 visible。使用 overflow-x 与 overflow-y 单独的设置水平和垂直方向的滚动条。
+
+
