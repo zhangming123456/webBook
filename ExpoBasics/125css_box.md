@@ -35,3 +35,9 @@ height：< length > | < percentage > | auto | inherit
 ** Padding **
 
 padding: [< length > | < percentage >]{1,4} | inherit
+
+** Margin **
+
+margin: [< length > | < percentage > | auto]{1,4} | inherit
+
+
