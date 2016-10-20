@@ -1,3 +1,3 @@
 #布局
 
-##display
+##display(元素显示类型)
