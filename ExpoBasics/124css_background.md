@@ -76,3 +76,4 @@ background-attachment: < attachment >[, < attachment >]*;
 
 >注意： Internet Explorer 8和更早版本的浏览器不支持多个背景图像在一个元素.
 
+##CSS3背景属性
