@@ -56,11 +56,11 @@ margin 合并
 
 border: [< br-width > || < br-style > || < color >] | inherit
 
-border-width: [< length > | thin | medium | thick]{1,4} | inherit
+border-width(宽度): [< length > | thin | medium | thick]{1,4} | inherit
 
-border-style: [solid | dashed | dotted | ...]{1,4} |inherit
+border-style(样式): [solid | dashed | dotted | ...]{1,4} |inherit
 
-border-colro: [< color > | transparent]{1,4} | inherit
+border-colro(颜色): [< color > | transparent]{1,4} | inherit
 
 >NOTE：border-color 默认为元素字体颜色。
 
