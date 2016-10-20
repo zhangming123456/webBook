@@ -115,3 +115,11 @@ box-shadown: none | [inset? && [ < offset-x > < offset-y > < blur-radius >? < sp
 
 >outline简写属性在一个声明中设置所有的轮廓属性。
 可以设置的属性分别是（按顺序）：outline-color, outline-style, outline-width
+
+outline: [ <'outline-color'> || <'outline-style'> || <'outline-width'> ]
+
+outline-width: <length> | thin | medium | thick | inherit
+
+outline-style: solid | dashed | dotted | ... | inherit
+
+outline-color: <color> | invert | inherit
