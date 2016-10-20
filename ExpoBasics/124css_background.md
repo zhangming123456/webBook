@@ -44,3 +44,5 @@ background-position: < position >[, < position >]*;
 
 作用：设置背景图像是否固定或者随着页面的其余部分滚动 
 
+
+
