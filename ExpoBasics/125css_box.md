@@ -54,7 +54,7 @@ margin(外边距): [< length > | < percentage > | auto]{1,4} | inherit
 * 外边距不会影响盒子大小
 * 外边距合并问题
     * 垂直显示的盒子
-    * 盒子嵌套（外边距合并）（塌陷）
+    * 盒子嵌套(外边距合并)(塌陷)
         * 给父盒子设置border值
         * 给父盒子设置overflow:hidden；
         * BFC 块级格式化上下文
