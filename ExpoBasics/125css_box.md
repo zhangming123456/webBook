@@ -72,6 +72,8 @@ border-radius: [ < length > | < percentage > ]{1,4} [ / [ < length > | < percent
 
 ** Overflow **
 
+作用：属性指定如果内容溢出一个元素的框，会发生什么。
+
 overflow: visible | hidden | scroll | auto
 
 >NOTE：默认属性为 visible。使用 overflow-x 与 overflow-y 单独的设置水平和垂直方向的滚动条。
