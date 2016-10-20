@@ -48,8 +48,8 @@ background-attachment: < attachment >[, < attachment >]*;
 
 作用：设置背景图像是否固定或者随着页面的其余部分滚动 
 
-* scroll:背景图片随页面的其余部分滚动。这是默认
-* fixed:背景图像是固定的
-* inherit:指定background-attachment的设置应该从父元素继承
+* scroll：背景图片随页面的其余部分滚动。这是默认
+* fixed：背景图像是固定的
+* inherit：指定background-attachment的设置应该从父元素继承
 
 
