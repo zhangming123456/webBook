@@ -89,3 +89,6 @@ linear-gradient([ [< angle > | to < side-or-corner >],]? < color-step >[, < colo
 
 ![](/image/2016balg.png)
 
+* 重复的线性渐变
+
+repeating-linear-gradient() 函数用于重复线性渐变：
