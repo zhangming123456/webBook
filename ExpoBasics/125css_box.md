@@ -125,7 +125,6 @@ outline-width: < length > | thin | medium | thick | inherit
 * thick规定粗的轮廓。
 * length允许您规定轮廓粗细的值。
 
-
 outline-style: solid | dashed | dotted | ... | inherit
 
 * none默认。定义无轮廓。
