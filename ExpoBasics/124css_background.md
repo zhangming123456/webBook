@@ -119,3 +119,5 @@ repeating-radial-gradient() 函数用于重复径向渐变：
 作用：属性指定background-position属性应该是相对位置。
 
 >注意：如果背景图像background-attachment是"固定"，这个属性没有任何效果。
+
+background-origin: padding-box|border-box|content-box; 
