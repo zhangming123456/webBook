@@ -93,6 +93,8 @@ linear-gradient([ [< angle > | to < side-or-corner >],]? < color-step >[, < colo
 
 repeating-linear-gradient() 函数用于重复线性渐变：
 
+![](/image/2016barli.png)
+
 ** radial-gradient（径向渐变）**
 
 ![](/image/2016barg.jpg)
@@ -109,3 +111,5 @@ radial-gradient( [ circle || < length > ] [ at < position > ]? , | [ ellipse || 
 * 重复的径向渐变
 
 repeating-radial-gradient() 函数用于重复径向渐变：
+
+![](/image/2016barre.png)
