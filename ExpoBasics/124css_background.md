@@ -47,6 +47,7 @@ background-position: < position >[, < position >]*;
 * background-position: right 10px top 20px;
 
 
+
 ###不常用属性
 
 ** background-attachment **
