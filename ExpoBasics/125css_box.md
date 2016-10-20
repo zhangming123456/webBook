@@ -122,7 +122,15 @@ outline-width: < length > | thin | medium | thick | inherit
 
 outline-style: solid | dashed | dotted | ... | inherit
 
-none默认。定义无轮廓。dotted定义点状的轮廓。dashed定义虚线轮廓。solid定义实线轮廓。double定义双线轮廓。双线的宽度等同于 outline-width 的值。groove定义 3D 凹槽轮廓。此效果取决于 outline-color 值。ridge定义 3D 凸槽轮廓。此效果取决于 outline-color 值。inset定义 3D 凹边轮廓。此效果取决于 outline-color 值。outset定义 3D 凸边轮廓。此效果取决于 outline-color 值。
+* none默认。定义无轮廓。
+* dotted定义点状的轮廓。
+* dashed定义虚线轮廓。
+* solid定义实线轮廓。
+* double定义双线轮廓。双线的宽度等同于 outline-width 的值。
+* groove定义 3D 凹槽轮廓。此效果取决于 outline-color 值。
+* ridge定义 3D 凸槽轮廓。此效果取决于 outline-color 值。
+* inset定义 3D 凹边轮廓。此效果取决于 outline-color 值。
+* outset定义 3D 凸边轮廓。此效果取决于 outline-color 值。
 
 
 outline-color: < color > | invert | inherit
