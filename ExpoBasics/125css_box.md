@@ -72,7 +72,7 @@ border-colro(颜色): [< color > | transparent]{1,4} | inherit
 
 >NOTE：border-color 默认为元素字体颜色。
 
-**
+** border-collapse(表格边框合并) **
 
 >NOTE：任何的版本的 Internet Explorer （包括 IE8）都不支持属性值 "inherit"。
 
