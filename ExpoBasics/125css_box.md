@@ -31,3 +31,7 @@ width：< length > | < percentage > | auto | inherit
 height：< length > | < percentage > | auto | inherit
 
 >NOTE：默认情况元素的高度为内容高度。max-height 与 min-height 可以设置最大与最小高度。
+
+** Padding **
+
+padding: [< length > | < percentage >]{1,4} | inherit
