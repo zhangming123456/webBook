@@ -128,3 +128,4 @@ background-origin: padding-box|border-box|content-box;
 
 ![](/image/2016orbox.png)
 
+** background-clip **
