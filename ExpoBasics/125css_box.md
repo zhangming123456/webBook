@@ -88,6 +88,8 @@ border-radius: [ < length > | < percentage > ]{1,4} [ / [ < length > | < percent
 
 ** box-sizing **
 
+![](/image/2016box02.png)
+
 作用：允许你以某种方式定义某些元素，以适应指定区域。
 
 box-sizing: content-box | border-box | inherit
