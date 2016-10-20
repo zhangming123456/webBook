@@ -86,3 +86,4 @@ linear-gradient([ [< angle > | to < side-or-corner >],]? < color-step >[, < colo
 
 < side-or-corner > = [left | right] || [top | bottom]
 < color-stop > = < color > [< percentage > | < length >]?)
+
