@@ -81,3 +81,8 @@ background-attachment: < attachment >[, < attachment >]*;
 ** linear-gradient（线性渐变） **
 
 background: linear-gradient(); 
+
+linear-gradient([ [< angle > | to < side-or-corner >],]? < color-step >[, < color-stop >]+ 
+
+< side-or-corner > = [left | right] || [top | bottom]
+< color-stop > = < color > [< percentage > | < length >]?)
