@@ -53,3 +53,4 @@ background-attachment: < attachment >[, < attachment >]*;
 * inherit：指定background-attachment的设置应该从父元素继承
 
 >注意： Internet Explorer 8和更早版本的浏览器不支持多个背景图像在一个元素.
+
