@@ -125,3 +125,6 @@ background-origin: padding-box|border-box|content-box;
 * padding-box：背景图像填充框的相对位置
 * border-box：背景图像边界框的相对位置
 * content-box：背景图像的相对位置的内容框
+
+![](/image/2016orbox.png)
+
