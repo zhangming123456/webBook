@@ -57,7 +57,7 @@ margin(外边距): [< length > | < percentage > | auto]{1,4} | inherit
     * 盒子嵌套（外边距合并）
         * 给父盒子设置border值
         * 给父盒子设置overflow:hidden；
-
+        * BFC 块级格式化上下文
 
 >NOTE：margin 默认值为 auto
 
