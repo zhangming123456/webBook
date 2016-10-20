@@ -129,3 +129,9 @@ background-origin: padding-box|border-box|content-box;
 ![](/image/2016orbox.png)
 
 ** background-clip **
+
+作用：属性指定背景绘制区域
+
+background-clip: border-box|padding-box|content-box; 
+
+border-box默认值。背景绘制在边框方框内（剪切成边框方框）。padding-box背景绘制在衬距方框内（剪切成衬距方框）。content-box背景绘制在内容方框内（剪切成内容方框）。
