@@ -36,4 +36,11 @@ background-repeat: < repeat-style >[, < repeat-style ]*;
 
 background-position: < position >[, < position >]*;
 
-< position > = [left | center | right | top | bottom |< percentage > | < length > ] | [left | center | right | top | bottom | < percentage > | < length >] [left | center | right | top | bottom | < percentage > | < length >] | [center | [left | right][< percentage > | < length >]? ] && [center | [left | right][< percentage > | < length >]? ]
+< position > = [left | center | right | top | bottom |< percentage > | < length > ] | 【left | center | right | top | bottom | < percentage > | < length >】 【left | center | right | top | bottom | < percentage > | < length >] | [center | [left | right] [< percentage > | < length >】? ] && [center | [left | right][< percentage > | < length >]? ]
+
+###不常用属性
+
+** background-attachment **
+
+作用：设置背景图像是否固定或者随着页面的其余部分滚动 
+
