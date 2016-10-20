@@ -72,6 +72,12 @@ border-colro(颜色): [< color > | transparent]{1,4} | inherit
 
 >NOTE：border-color 默认为元素字体颜色。
 
+**
+
+>NOTE：任何的版本的 Internet Explorer （包括 IE8）都不支持属性值 "inherit"。
+
+>NOTE：如果没有规定 !DOCTYPE，则 border-collapse 可能产生意想不到的结果
+
 ** Overflow **
 
 作用：属性指定如果内容溢出一个元素的框，会发生什么。
