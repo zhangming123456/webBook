@@ -48,6 +48,21 @@ background-position: < position >[, < position >]*;
 
 ![](/image/20161220bapo.png)
 
+** Sprite(精灵图) 的使用 **
+
+    background-image: url(sprite.png)
+    background-repeat: no-repeat;
+    background-positon: 0 -100px
+
+或
+
+    background: url(sprite.png) no-repeat 0 -100px
+
+
+
+使用位置为负值将图片偏移使需要的图片位置上移并显示正确的图案。
+
+
 ###不常用属性
 
 ** background-attachment **
