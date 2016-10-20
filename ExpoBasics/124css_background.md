@@ -32,6 +32,8 @@ background-repeat: < repeat-style >[, < repeat-style ]*;
 
 * round 不留空隙平铺且覆盖显示区域，图标会被缩放以达到覆盖效果（缩放不一定等比）
 
-
 ** 背景图片的位置 **
 
+background-position: < position >[, <position>]*;
+
+<position> = [left|center|right|top|bottom|<percentage>|<length>]|[left|center|right|top|bottom|<percentage>|<length>] [left|center|right|top|bottom|<percentage>|<length>] | [center |[left|right][<percentage>|<length>]?]&&[center |[left|right][<percentage>|<length>]?]
