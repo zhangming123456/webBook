@@ -32,7 +32,7 @@ height：< length > | < percentage > | auto | inherit
 
 >NOTE：默认情况元素的高度为内容高度。max-height 与 min-height 可以设置最大与最小高度。
 
-** Padding(内边距) **
+** Padding(内边距/填充) **
 
 padding: [< length > | < percentage >]{1,4} | inherit
 
@@ -52,7 +52,7 @@ margin 合并
 
 毗邻元素外间距（margin）会合并，既取相对较大的值。父元素与第一个和最后一个子元素的外间距也可合并。
 
-** Border **
+** Border(边框) **
 
 border: [< br-width > || < br-style > || < color >] | inherit
 
