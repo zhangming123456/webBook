@@ -32,7 +32,7 @@ height：< length > | < percentage > | auto | inherit
 
 >NOTE：默认情况元素的高度为内容高度。max-height 与 min-height 可以设置最大与最小高度。
 
-** Padding **
+** Padding(内边距) **
 
 padding: [< length > | < percentage >]{1,4} | inherit
 
