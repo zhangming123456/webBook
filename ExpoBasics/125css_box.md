@@ -18,4 +18,8 @@
 
 * margin 外边距
 
- 
+###属性
+
+** 内容盒子宽 **
+
+width：< length > | < percentage > | auto | inherit
