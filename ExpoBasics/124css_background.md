@@ -140,3 +140,4 @@ background-clip: border-box|padding-box|content-box;
 
 ![](/image/2016baclip.png)
 
+** background-size **
