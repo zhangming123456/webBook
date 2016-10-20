@@ -54,11 +54,11 @@ margin(外边距): [< length > | < percentage > | auto]{1,4} | inherit
 
 水平居中 
 
-margin: 0 auto;
+* margin: 0 auto;
 
 margin 合并
 
-毗邻元素外间距（margin）会合并，既取相对较大的值。父元素与第一个和最后一个子元素的外间距也可合并。
+* 毗邻元素外间距（margin）会合并，既取相对较大的值。父元素与第一个和最后一个子元素的外间距也可合并。
 
 ** Border(边框) **
 
