@@ -125,3 +125,5 @@ outline-width: < length > | thin | medium | thick | inherit
 outline-color: < color > | invert | inherit
 
 * invert:默认。执行颜色反转（逆向的颜色）。可使轮廓在不同的背景颜色中都是可见。
+
+>NOTE：outline 与 border 相似但无法分别设置四个方向的属性。outline 并不占据空间，而 border占据空间，且显示位于 border 以外。
