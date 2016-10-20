@@ -12,11 +12,11 @@ background: [< background-color > || < background-image > || < background-repeat
 
 < bg-layer > = < bg-image > || < position > [/ < bg-size >]? || < repeat-style > || < attachment > || < box > || < box >
 
->/\* 两个 < box > 第一个为 background-origin \*/
+>两个 < box > 第一个为 background-origin
 
->/\* 两个 <box> 第二个为 background-clip \*/
+>两个 <box> 第二个为 background-clip
 
->/\* 只出现一个 <box> 则即是 background-origin 也是 background-clip \*/
+>只出现一个 < box > 则即是 background-origin 也是 background-clip
 
 < final-bg-layer > = < bg-layer > || <'background-color'>
 
