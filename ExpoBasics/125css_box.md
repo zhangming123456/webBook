@@ -38,7 +38,7 @@ padding: [< length > | < percentage >]{1,4} | inherit
 
 ** Margin **
 
-margin: [< length > | < percentage > | auto]{1,4} | inherit
+margin(外边距): [< length > | < percentage > | auto]{1,4} | inherit
 
 >NOTE：margin 默认值为 auto
 
