@@ -58,8 +58,6 @@ background-position: < position >[, < position >]*;
 
     background: url(sprite.png) no-repeat 0 -100px;
 
-
-
 使用位置为负值将图片偏移使需要的图片位置上移并显示正确的图案。
 
 
