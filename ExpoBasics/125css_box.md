@@ -99,4 +99,10 @@ box-sizing: content-box | border-box | inherit
 
 ** box-shadow **
 
+作用：向框添加一个或多个阴影
+
 box-shadown: none | [inset? && [ < offset-x > < offset-y > < blur-radius >? < spread-radius >? < color >? ] ]#
+
+![](/image/2016box03.png)
+
+![](/image/2016box04.png)
