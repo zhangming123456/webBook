@@ -102,3 +102,7 @@ radial-gradient( [ circle || < length > ] [ at < position > ]? , | [ ellipse || 
 < extent-keyword > = closest-corner | closest-side | farthest-corner | farthest-side
 
 < color-stop > = < color > [ < percentage > | < length > ]?
+
+![](/image/2016barg01.png)
+![](/image/2016barg02.png)
+
