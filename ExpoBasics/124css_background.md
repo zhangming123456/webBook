@@ -95,4 +95,9 @@ repeating-linear-gradient() 函数用于重复线性渐变：
 
 ** radial-gradient（径向渐变）**
 
+![](/image/2016barg.jpg)
 
+radial-gradient( [ circle || < length > ] [ at < position > ]? , | [ ellipse || [< length > | < percentage > ]{2}] [ at < position > ]? , | [ [ circle | ellipse ] || < extent-keyword > ] [ at < position > ]? , | at < position > , < color-stop > [ , < color-stop > ]+ )
+
+< extent-keyword > = closest-corner | closest-side | farthest-corner | farthest-side
+< color-stop > = < color > [ < percentage > | < length > ]?
