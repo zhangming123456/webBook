@@ -74,6 +74,6 @@ border-radius: [ < length > | < percentage > ]{1,4} [ / [ < length > | < percent
 
 overflow: visible | hidden | scroll | auto
 
-NOTE：默认属性为 visible。使用 overflow-x 与 overflow-y 单独的设置水平和垂直方向的滚动条。
+>NOTE：默认属性为 visible。使用 overflow-x 与 overflow-y 单独的设置水平和垂直方向的滚动条。
 
 
