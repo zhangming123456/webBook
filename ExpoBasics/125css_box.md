@@ -108,3 +108,5 @@ box-shadown: none | [inset? && [ < offset-x > < offset-y > < blur-radius >? < sp
 ![](/image/2016box04.png)
 
 >NOTE：水平与垂直偏移可以为负值即相反方向偏移。颜色默认为文字颜色。阴影不占据空间，仅为修饰效果。
+
+** Outline **
