@@ -74,7 +74,9 @@ border-colro(颜色): [< color > | transparent]{1,4} | inherit
 
 ** border-collapse(表格边框合并) **
 
-* separate默认值。边框会被分开。不会忽略 border-spacing 和 empty-cells 属性。collapse如果可能，边框会合并为一个单一的边框。会忽略 border-spacing 和 empty-cells 属性。inherit规定应该从父元素继承 border-collapse 属性的值。
+* separate默认值。边框会被分开。不会忽略 border-spacing 和 empty-cells 属性。
+* collapse如果可能，边框会合并为一个单一的边框。会忽略 border-spacing 和 empty-cells 属性。
+* inherit规定应该从父元素继承 border-collapse 属性的值。
 
 
 >NOTE：任何的版本的 Internet Explorer （包括 IE8）都不支持属性值 "inherit"。
