@@ -154,4 +154,5 @@ background-size: length|percentage|cover|contain;
 ![](/image/2016basize01.png)
 ![](/image/2016basize02.png)
 
-** background shorthand **
+** background-shorthand **
+
