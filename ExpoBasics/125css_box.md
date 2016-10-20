@@ -98,3 +98,5 @@ box-sizing: content-box | border-box | inherit
 * border-box = 内容盒子宽高
 
 ** box-shadow **
+
+box-shadown: none | [inset? && [ < offset-x > < offset-y > < blur-radius >? < spread-radius >? < color >? ] ]#
