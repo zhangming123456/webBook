@@ -4,6 +4,9 @@
 
 background: [< background-color > || < background-image > || < background-repeat > || < background-position >]{1,4};
 
+** 含CSS3简写 **
+
+
 ** 背景颜色 **
 
 background-color: < color >;
@@ -153,22 +156,3 @@ background-size: length|percentage|cover|contain;
 
 ![](/image/2016basize01.png)
 ![](/image/2016basize02.png)
-
-** background shorthand **
-
-[< bg-layer >,]* < final-bg-layer >
-
-< bg-layer > = < bg-image > || < position > [/ < bg-size >]? || < repeat-style > || < attachment > || < box > || < box >
-
-
-
-/* 两个 <box> 第一个为 background-origin */ /* 两个 <box> 第二个为 background-clip */ /* 只出现一个 <box> 则即是 background-origin 也是 background-clip */
-
-
-
-<final-bg-layer> = <bg-layer> || <'background-color'>
-
-
-
-background: url(red.png) 0 0/20px 20px no-repeat, url(blue.png) 50% 50%/contain no-repeat content-box green;
-
