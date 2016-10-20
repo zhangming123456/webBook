@@ -78,4 +78,4 @@ background-attachment: < attachment >[, < attachment >]*;
 
 ##CSS3背景属性
 
-** linear-gradient **
+** linear-gradient线性渐变 **
