@@ -38,6 +38,19 @@ background-position: < position >[, < position >]*;
 
 < position > = [left | center | right | top | bottom |< percentage > | < length > ] | 【left | center | right | top | bottom | < percentage > | < length >】 【left | center | right | top | bottom | < percentage > | < length >] | [center | [left | right] [< percentage > | < length >】? ] && [center | [left | right][< percentage > | < length >]? ]
 
+>等同效果
+>* background-position: 50% 50%; == center center; 
+* background-position: 0 0; == left top;
+
+
+
+background-position: 100% 100%; background-position: right bottom;
+
+
+
+/* 四个值时方向只为参照物 */ background-position: right 10px top 20px;
+
+
 ###不常用属性
 
 ** background-attachment **
