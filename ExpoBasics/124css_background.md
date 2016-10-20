@@ -46,7 +46,7 @@ background-position: < position >[, < position >]*;
 >四个值时方向只为参照物 
 * background-position: right 10px top 20px;
 
-
+![](/image/20161220bapo.png)
 
 ###不常用属性
 
