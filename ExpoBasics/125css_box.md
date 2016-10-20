@@ -52,11 +52,9 @@ margin(外边距): [< length > | < percentage > | auto]{1,4} | inherit
 
 >NOTE：margin 默认值为 auto
 
+水平居中 
 
-
-Trick：
-
-/* 可用于水平居中 */ margin: 0 auto;
+margin: 0 auto;
 
 margin 合并
 
