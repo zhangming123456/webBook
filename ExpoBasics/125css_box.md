@@ -123,3 +123,5 @@ outline-width: < length > | thin | medium | thick | inherit
 outline-style: solid | dashed | dotted | ... | inherit
 
 outline-color: < color > | invert | inherit
+
+>NOTE:invert 默认。执行颜色反转（逆向的颜色）。可使轮廓在不同的背景颜色中都是可见。
