@@ -88,3 +88,4 @@ linear-gradient([ [< angle > | to < side-or-corner >],]? < color-step >[, < colo
 < color-stop > = < color > [< percentage > | < length >]?)
 
 ![](/image/2016balg.png)
+
