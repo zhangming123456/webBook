@@ -34,6 +34,6 @@ background-repeat: < repeat-style >[, < repeat-style ]*;
 
 ** 背景图片的位置 **
 
-background-position: < position >[, <position>]*;
+background-position: < position >[, < position >]*;
 
 <position> = [left|center|right|top|bottom|<percentage>|<length>]|[left|center|right|top|bottom|<percentage>|<length>] [left|center|right|top|bottom|<percentage>|<length>] | [center |[left|right][<percentage>|<length>]?]&&[center |[left|right][<percentage>|<length>]?]
