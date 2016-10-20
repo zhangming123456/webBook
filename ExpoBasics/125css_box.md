@@ -118,7 +118,7 @@ box-shadown: none | [inset? && [ < offset-x > < offset-y > < blur-radius >? < sp
 
 outline: [ <'outline-color'> || <'outline-style'> || <'outline-width'> ]
 
-outline-width: <length> | thin | medium | thick | inherit
+outline-width: < length > | thin | medium | thick | inherit
 
 outline-style: solid | dashed | dotted | ... | inherit
 
