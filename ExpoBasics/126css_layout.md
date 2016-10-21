@@ -145,7 +145,7 @@ CSS 中规定的定位机制，其可实现块级元素同行显示并存在于�
 
 ![](/assets/float-half-off.png)
 
-##Clear()
+##Clear(清除浮动)
 
 clear: both | left | right | none | inherit
 	• 
