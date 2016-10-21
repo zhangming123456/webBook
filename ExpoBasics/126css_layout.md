@@ -235,3 +235,6 @@ clear: both | left | right | none | inherit
 flex-flow 为 flex-wrap 与 flex-direction 的简写，建议使用此属性（避免同时使用两个属性来修改）。
 
     flex-flow: <'flex-direction'> || <'flex-wrap'>
+
+![](/assets/flex-flow.png)
+
