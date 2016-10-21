@@ -128,3 +128,5 @@ float: left | right | none | inherit
 * 默认宽度为内容宽度
 * 脱离文档流（会被父元素边界阻挡与position脱离文档流的方式不同）
 * 指的方向一直移动
+
+![](/assets/float-right.png)
