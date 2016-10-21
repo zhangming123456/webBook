@@ -274,3 +274,14 @@ Width/Height = flex-basis + flex-grow/sum(flow-grow) * remain
 
 ![](/assets/flex-grow2.png)
 
+** flex-shrink **
+
+收缩因子，用于分配超出的负空间如何从可用空间中进行缩减。
+
+    flex-shrink: <number>
+    initial: 1
+    <!-- 默认值为 1 -->
+
+Width/Height = flex-basis + flow-shrink/sum(flow-shrink) * remain
+
+remain 为负值，既超出的区域。
