@@ -38,7 +38,7 @@
 * 默认宽度为内容宽度
 * 不可设置宽高
 * 同行显示（元素内部可换行）
-* 默认为inline的元素：< span >, < a >, < label >, < cite >, < em >
+* 默认为inline的元素：span、a、label、cite 、em、···
 
 ** display:inline-block **
 
