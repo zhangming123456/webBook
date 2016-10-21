@@ -106,3 +106,5 @@ position: static | relative | absolute | fixed
 ![](/assets/layout-position.png)
 
 其用于设置元素边缘与参照物边缘的距离，且设置的值可为负值。在同时设置相对方向时，元素将被拉伸。
+
+** z-index **
