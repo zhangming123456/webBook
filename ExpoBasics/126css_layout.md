@@ -193,6 +193,9 @@ clear: both | left | right | none | inherit
 
 ** flex item **
 
+只有弹性容器在文档流中的子元素才属于弹性元素。
+
+
     <div style="display: flex;">
         <div>Block Element</div>
         <!-- flex item: YES-->
