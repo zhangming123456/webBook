@@ -29,7 +29,7 @@
 * 默认宽高为父元素宽高
 * 可设置宽高
 * 换行显示
-* 默认为block的元素：div、p、h1~h6、ul、form、···
+* 默认为block的元素：div、p、h1~h6、ul、li、ol、form、···
 
 ** display:inline **
 
