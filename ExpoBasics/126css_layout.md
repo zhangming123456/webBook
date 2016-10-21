@@ -92,7 +92,7 @@ position: static | relative | absolute | fixed
 
 ![](/image/position-absolute.png)
 
-position:fixed
+** position:fixed(固定定位) **
 
 * 默认宽度为内容宽度
 * 脱离文档流
