@@ -293,3 +293,6 @@ remain 为负值，既超出的区域。
 
 ![](/assets/flex-shrink.png)
 
+###flex 对齐
+
+** justify-content **
