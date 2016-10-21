@@ -148,6 +148,6 @@ CSS 中规定的定位机制，其可实现块级元素同行显示并存在于�
 ##Clear(清除浮动)
 
 clear: both | left | right | none | inherit
-	• 
-	• 应用于后续元素
-	• 应用于块级元素（block）
+ 
+* 应用于后续元素
+* 应用于块级元素（block）
