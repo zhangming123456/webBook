@@ -170,7 +170,7 @@ clear: both | left | right | none | inherit
     
     clearfix:after {
         content: "."; 
-        /* Older browser do not support empty content */
+        /* 旧的浏览器不支持空内容 */
         visibility: hidden;
         display: block;
         height: 0;
