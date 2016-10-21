@@ -324,3 +324,21 @@ remain 为负值，既超出的区域。
 * baseline：项目位于容器的基线上。
 
 ![](/assets/flex-align-items.png)
+
+** align-self **
+
+其用于设置单个 flex-item 在 cross-axis 方向上的对其方式。
+
+    align-self: auto | flex-start | flex-end | center | baseline | stretch
+    <!-- 默认值为 auto -->
+
+![](/assets/flex-align-self.png)
+
+** align-content **
+
+其用于设置 cross-axis 方向上的对其方式。
+
+    align-content:flex-start | flex-end | center | space-between | space-around | stretch
+    <!-- 默认为 stretch -->
+
+![](/assets/flex-align-content.png)
