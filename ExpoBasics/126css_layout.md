@@ -136,3 +136,6 @@ float: left | right | none | inherit
 * 网页布局
 
 ![](/assets/float-right.png)
+
+* float 元素在同一文档流中 *，当同时进行 float 时它们会按照文档流中的顺序排列。(当所有父元素中的所有元素脱离文档流之后，父元素将失去原有默认的内容高度)
+
