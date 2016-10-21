@@ -194,9 +194,10 @@ clear: both | left | right | none | inherit
 ** flex item **
 
     <div style="display: flex;">
-    <div>Block Element</div>
-    <!-- flex item: YES-->
-    <span>Inline Element</span>
-    <!-- flex item: YES-->
-    <div style="position:absolute;">Absolute Block Element</div>
-    <!-- flex item: YES--></div>
+        <div>Block Element</div>
+        <!-- flex item: YES-->
+        <span>Inline Element</span>
+        <!-- flex item: YES-->
+        <div style="position:absolute;">Absolute Block Element</div>
+        <!-- flex item: YES-->
+    </div>
