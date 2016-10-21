@@ -101,4 +101,8 @@ position: static | relative | absolute | fixed
 	
 >NOTE：宽高的100%的参照依然为视窗（例：网页遮罩效果）；Fixed 定位在 IE7 和 IE8 下需要描述 !DOCTYPE 才能支持. 
 
+top/right/bottom/left
 
+![](/assets/layout-position.png)
+
+其用于设置元素边缘与参照物边缘的距离，且设置的值可为负值。在同时设置相对方向时，元素将被拉伸。
