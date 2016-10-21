@@ -48,4 +48,4 @@
 * 可设置宽高
 * 同行显示
 * 整块换行
-* 默认为inline-block的元素：input、textarea、select、button、img ···
+* 默认为inline-block的元素：input、textarea、select、button、img、···
