@@ -141,6 +141,6 @@ float: left | right | none | inherit
 
 ![](/assets/float-right-all.jpg)
 
->注意：float 元素是半脱离文档流的，对元素是脱离文档流，但对于内容则是在文档流之中的（既元素重叠但内容不重叠）。
+>注意：**float 元素是半脱离文档流的**，对元素是脱离文档流，但对于内容则是在文档流之中的（既元素重叠但内容不重叠）。
 
 ![](/assets/float-half-off.png)
