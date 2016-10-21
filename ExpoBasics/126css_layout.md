@@ -192,3 +192,11 @@ clear: both | left | right | none | inherit
     /* 弹性容器内的均为弹性元素*/
 
 ** flex item **
+
+    <div style="display: flex;">
+    <div>Block Element</div>
+    <!-- flex item: YES-->
+    <span>Inline Element</span>
+    <!-- flex item: YES-->
+    <div style="position:absolute;">Absolute Block Element</div>
+    <!-- flex item: YES--></div>
