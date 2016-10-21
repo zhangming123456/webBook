@@ -56,3 +56,12 @@
 
 display:none 与 visibility:hidden 的区别为 display:none 不显示且不占位，但 visibility:hidden不显示但占位。
 
+##Position
+
+position 用于设置定位的方式与top right bottom left z-index 则用于设置参照物位置（必须配合定位一同使用）。
+
+三种定位形式
+
+* 静态定位（static）
+* 相对定位（relative）
+* 绝对定位（absolute、fixed）
