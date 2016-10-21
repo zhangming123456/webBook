@@ -228,3 +228,10 @@ clear: both | left | right | none | inherit
 * wrap：规定灵活的项目在必要的时候拆行或拆列。
 * wrap-reverse：规定灵活的项目在必要的时候拆行或拆列，但是以相反的顺序。
 
+![](/assets/flex-wrap.png)
+
+** flex-flow **
+
+flex-flow 为 flex-wrap 与 flex-direction 的简写，建议使用此属性（避免同时使用两个属性来修改）。
+
+    flex-flow: <'flex-direction'> || <'flex-wrap'>
