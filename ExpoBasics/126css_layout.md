@@ -99,5 +99,6 @@ position: static | relative | absolute | fixed
 * 脱离文档流
 * 参照物为视窗
 	
-NOTE：宽高的100%的参照依然为视窗（例：网页遮罩效果）；Fixed 定位在 IE7 和 IE8 下需要描述 !DOCTYPE 才能支持. 
+>NOTE：宽高的100%的参照依然为视窗（例：网页遮罩效果）；Fixed 定位在 IE7 和 IE8 下需要描述 !DOCTYPE 才能支持. 
+
 
