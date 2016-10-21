@@ -91,3 +91,11 @@ position: static | relative | absolute | fixed
     * 当盒子发生嵌套关系的时候，如果父盒子设置定位，子盒子设置定位父盒子左上角为基准设置定位。
 
 ![](/image/position-absolute.png)
+
+position:fixed
+
+* 默认宽度为内容宽度
+* 脱离文档流
+* 参照物为视窗
+	
+NOTE：宽高的100%的参照依然为视窗（例：网页遮罩效果）
