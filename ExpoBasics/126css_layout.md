@@ -69,3 +69,10 @@ position 用于设置定位的方式与top right bottom left z-index 则�
 position: static | relative | absolute | fixed
 
 >默认值为 static
+
+** position:relative **
+
+* 相对定位的元素仍在文档流之中，并按照文档流中的顺序进行排列。
+* 参照物为元素本身的位置。
+	
+>NOTE：最常用的目的为改变元素层级和设置为绝对定位的参照物。
