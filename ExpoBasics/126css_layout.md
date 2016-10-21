@@ -215,5 +215,6 @@ clear: both | left | right | none | inherit
 * row：默认值。灵活的项目将水平显示，正如一个行一样。
 * row-reverse：与 row 相同，但是以相反的顺序。
 * column：灵活的项目将垂直显示，正如一个列一样。
+* column-reverse：与 column 相同，但是以相反的顺序。
 
 ![](/assets/flex-direciton.png)
