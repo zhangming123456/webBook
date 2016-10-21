@@ -316,3 +316,5 @@ remain 为负值，既超出的区域。
 
     align-items: flex-start | flex-end | center | baseline | stretch
     <!-- 默认值为 stretch -->
+
+![](/assets/flex-align-items.png)
