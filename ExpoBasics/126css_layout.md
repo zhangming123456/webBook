@@ -78,3 +78,5 @@ position: static | relative | absolute | fixed
 >NOTE：最常用的目的为改变元素层级和设置为绝对定位的参照物。
 
 ![](/image/position-relative.png)
+
+** position:absolute **
