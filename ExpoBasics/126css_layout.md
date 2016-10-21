@@ -112,3 +112,5 @@ position: static | relative | absolute | fixed
 其用于设置 Z 轴上得排序，默认值为 0 但可设置为负值。（如不做设置，则按照文档流的顺序排列。后面的元素将置于前面的元素之上）
 
 ![](/assets/layouy-position-zindex.png)
+
+_z-index 栈_
