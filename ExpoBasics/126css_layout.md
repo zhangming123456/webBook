@@ -168,6 +168,7 @@ clear: both | left | right | none | inherit
 4. 块级元素可以使用 <br> 不建议使用，影响 HTML 结构
 	
     clearfix:after {
+
         content: "."; 
         /* Older browser do not support empty content */
         visibility: hidden;
