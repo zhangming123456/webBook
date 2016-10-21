@@ -167,8 +167,8 @@ clear: both | left | right | none | inherit
 3. 为受到影响的元素设置 width: 100% overflow: hidden 也可
 4. 块级元素可以使用 <br> 不建议使用，影响 HTML 结构
 	
+    
     clearfix:after {
-
         content: "."; 
         /* Older browser do not support empty content */
         visibility: hidden;
