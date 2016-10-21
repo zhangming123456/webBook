@@ -80,3 +80,9 @@ position: static | relative | absolute | fixed
 ![](/image/position-relative.png)
 
 ** position:absolute **
+
+建立以包含块为基准的定位，其随即拥有偏移属性和 z-index 属性。
+
+* 默认宽度为内容宽度
+* 脱离文档流
+* 参照物为第一个定位祖先或根元素（<html> 元素）
