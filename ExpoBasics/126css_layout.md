@@ -178,3 +178,14 @@ clear: both | left | right | none | inherit
     }
     .clearfix {zoom: 1;} /\* 针对 IE 不支持 :after \*/
 
+#常用CSS3相关
+
+##flex
+
+![](/assets/flex-container-and-item.jpg)
+
+弹性布局可用于多行自适应，多列自适应，间距自适应和任意对齐。
+
+** 创建 flex container **
+
+display: flex/\* 弹性容器内的均为弹性元素\*/
