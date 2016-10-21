@@ -157,3 +157,22 @@ clear: both | left | right | none | inherit
 * left 在左侧不允许浮动元素。
 * both	在左右两侧均不允许浮动元素。
 * none	默认值。允许浮动元素出现在两侧。
+
+常用方法：
+
+优先级自上而下
+
+1. clearfix 于父元素
+2. 浮动后续空白元素 .emptyDiv {clear: both}
+3. 为受到影响的元素设置 width: 100% overflow: hidden 也可
+4. 块级元素可以使用 <br> 不建议使用，影响 HTML 结构
+	
+    clearfix:after {
+        content: "."; 
+        /* Older browser do not support empty content */
+        visibility: hidden;
+        display: block;
+        height: 0;
+        clear: both;
+    }
+    .clearfix {zoom: 1;} /\* 针对 IE 不支持 :after \*/
