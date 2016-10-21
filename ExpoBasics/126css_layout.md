@@ -166,8 +166,8 @@ clear: both | left | right | none | inherit
 2. 浮动后续空白元素 .emptyDiv {clear: both}
 3. 为受到影响的元素设置 width: 100% overflow: hidden 也可
 4. 块级元素可以使用 <br> 不建议使用，影响 HTML 结构
-	
     
+
     clearfix:after {
         content: "."; 
         /* 旧的浏览器不支持空内容 */
