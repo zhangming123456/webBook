@@ -49,3 +49,10 @@
 * 同行显示
 * 整块换行
 * 默认为inline-block的元素：input、textarea、select、button、img、···
+
+** display:none **
+
+设置元素不显示
+
+display:none 与 visibility:hidden 的区别为 display:none 不显示且不占位，但 visibility:hidden不显示但占位。
+
