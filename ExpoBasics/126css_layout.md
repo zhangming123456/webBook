@@ -264,3 +264,6 @@ order: number(integer);
 
 Width/Height = flex-basis + flex-grow/sum(flow-grow) * remain
 
+    flex-grow: <number>
+    initial: 0
+    <!-- 默认值为 0 -->
