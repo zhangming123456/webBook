@@ -300,4 +300,10 @@ remain 为负值，既超出的区域。
 其用于设置主轴（main-axis）上的对其方式。弹性元素根据主轴（横向和纵向均可）定位所以不可使用left 与 right 因为位置为相对的。（行为相似的属性有 text-align）
 
     justify-content: flex-start | flex-end | center | space-between | space-around
-    <!-- 默认值为 flex-start -->
+    <!-- 默认值为 flex-start -->
+
+* flex-start：默认值。项目位于容器的开头。
+* flex-end：项目位于容器的结尾。
+* center：项目位于容器的中心。
+* space-between：项目位于各行之间留有空白的容器内。
+* space-around：项目位于各行之前、之间、之后都留有空白的容器内。
