@@ -151,3 +151,9 @@ clear: both | left | right | none | inherit
  
 * 应用于后续元素
 * 应用于块级元素（block）
+
+* left	在左侧不允许浮动元素。
+right	在右侧不允许浮动元素。
+both	在左右两侧均不允许浮动元素。
+none	默认值。允许浮动元素出现在两侧。
+inherit	规定应该从父元素继承 clear 属性的值。
