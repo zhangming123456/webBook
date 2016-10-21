@@ -188,4 +188,4 @@ clear: both | left | right | none | inherit
 
 ** 创建 flex container **
 
-display: flex/\* 弹性容器内的均为弹性元素\*/
+    display: flex/* 弹性容器内的均为弹性元素*/
