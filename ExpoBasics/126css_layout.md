@@ -108,3 +108,7 @@ position: static | relative | absolute | fixed
 其用于设置元素边缘与参照物边缘的距离，且设置的值可为负值。在同时设置相对方向时，元素将被拉伸。
 
 ** z-index **
+
+其用于设置 Z 轴上得排序，默认值为 0 但可设置为负值。（如不做设置，则按照文档流的顺序排列。后面的元素将置于前面的元素之上）
+
+![](/assets/layouy-position-zindex.png)
