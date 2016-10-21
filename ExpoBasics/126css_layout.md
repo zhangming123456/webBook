@@ -67,7 +67,7 @@ position 用于设置定位的方式与top right bottom left z-index 则�
 * 绝对定位（absolute）
 * 固定定位（fixed）
 
-position: static | relative | absolute | fixed
+    position: static | relative | absolute | fixed
 
 >默认值为 static
 
@@ -123,7 +123,7 @@ _z-index 栈_
 
 CSS 中规定的定位机制，其可实现块级元素同行显示并存在于文档流之中。浮动仅仅影响文档流中下一个紧邻的元素。
 
-float: left | right | none | inherit
+    float: left | right | none | inherit
 
 * 默认宽度为内容宽度,浮动可以行内元素转化为行内块元素
 * 脱离文档流（会被父元素边界阻挡与position脱离文档流的方式不同）
@@ -144,3 +144,4 @@ float: left | right | none | inherit
 >注意：**float 元素是半脱离文档流的**，对元素是脱离文档流，但对于内容则是在文档流之中的（既元素重叠但内容不重叠）。
 
 ![](/assets/float-half-off.png)
+
