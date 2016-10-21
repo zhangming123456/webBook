@@ -31,7 +31,7 @@
 * 换行显示
 * 默认为block的元素：< div >, < p >, < h1 > ~ < h6 >, < ul >, < form >
 
-display:inline
+** display:inline **
 
 行级元素
 
@@ -39,3 +39,11 @@ display:inline
 * 不可设置宽高
 * 同行显示（元素内部可换行）
 * 默认为inline的元素：< span >, < a >, < label >, < cite >, < em >
+
+** display:inline-block **
+
+* 默认宽度为内容宽度
+* 可设置宽高
+* 同行显示
+* 整块换行
+* 默认为inline-block的元素：< input >, < textarea >, < select >, < button >
