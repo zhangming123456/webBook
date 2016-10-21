@@ -257,3 +257,10 @@ order: number(integer);
 其用于设置 flex-item 的初始宽高（并作为弹性的基础）。如果 flex-direction 是以 row 排列则设置宽，如以 column 排列则设置高。
 
     flex-basis: main-size | <width>
+
+** flex-grow **
+
+伸展因子，其为弹性布局中最重要的元素之一，flex-grow 设置元素可用空余空间的比例。flex-container 先安装宽度（flex-basis）进行布局，如果有空余空间就按照 flex-grow 中的比例进行分配。
+
+Width/Height = flex-basis + flex-grow/sum(flow-grow) * remain
+
