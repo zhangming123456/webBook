@@ -21,3 +21,11 @@
 | block   | 父元素宽度 | 是 | 换行 |
 | inline  | 内容宽度 | 否 | 同行 |
 | inline-block | 内容宽度 | 是 | 同行 |
+
+** display:block **
+
+默认宽高为父元素宽高
+
+* 可设置宽高
+* 换行显示
+* 默认为block的元素：<div>, <p>, <h1> ~ <h6>, <ul>, <form>
