@@ -238,3 +238,8 @@ flex-flow 为 flex-wrap 与 flex-direction 的简写，建议使用此属�
 
 ![](/assets/flex-flow.png)
 
+** order **
+
+说明:设置或检索弹性盒模型对象的子元素出现的順序
+
+>order 的值为相对的（同被设置和未被设置的值相比较），当均为设置时默认值为 0 则按照文档流中的顺序排列。
