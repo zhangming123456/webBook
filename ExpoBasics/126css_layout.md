@@ -317,4 +317,10 @@ remain 为负值，既超出的区域。
     align-items: flex-start | flex-end | center | baseline | stretch
     <!-- 默认值为 stretch -->
 
+* stretch	默认值。项目被拉伸以适应容器。
+* center	项目位于容器的中心。
+* flex-start	项目位于容器的开头。
+* flex-end	项目位于容器的结尾。
+* baseline	项目位于容器的基线上。
+
 ![](/assets/flex-align-items.png)
