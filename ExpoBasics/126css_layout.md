@@ -296,3 +296,8 @@ remain 为负值，既超出的区域。
 ###flex 对齐
 
 ** justify-content **
+
+其用于设置主轴（main-axis）上的对其方式。弹性元素根据主轴（横向和纵向均可）定位所以不可使用left 与 right 因为位置为相对的。（行为相似的属性有 text-align）
+
+    justify-content: flex-start | flex-end | center | space-between | space-around
+    <!-- 默认值为 flex-start -->
