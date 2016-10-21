@@ -76,3 +76,5 @@ position: static | relative | absolute | fixed
 * 参照物为元素本身的位置。
 	
 >NOTE：最常用的目的为改变元素层级和设置为绝对定位的参照物。
+
+![](/image/position-relative.png)
