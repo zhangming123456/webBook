@@ -65,3 +65,7 @@ position 用于设置定位的方式与top right bottom left z-index 则�
 * 静态定位（static）
 * 相对定位（relative）
 * 绝对定位（absolute、fixed）
+
+position: static | relative | absolute | fixed
+
+>默认值为 static
