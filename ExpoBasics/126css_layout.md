@@ -204,3 +204,16 @@ clear: both | left | right | none | inherit
         <div style="position:absolute;">Absolute Block Element</div>
         <!-- flex item: YES-->
     </div>
+
+###flex 方向
+
+** flex-direction **
+
+    <!-- 默认值为 row -->
+    flex-direction: row | row-reverse | column | column-reverse
+
+* row：默认值。灵活的项目将水平显示，正如一个行一样。
+* row-reverse：与 row 相同，但是以相反的顺序。
+* column：灵活的项目将垂直显示，正如一个列一样。
+
+![](/assets/flex-direciton.png)
