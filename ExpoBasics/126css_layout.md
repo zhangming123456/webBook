@@ -190,3 +190,5 @@ clear: both | left | right | none | inherit
 
     display: flex;
     /* 弹性容器内的均为弹性元素*/
+
+** flex item **
