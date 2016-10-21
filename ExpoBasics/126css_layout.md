@@ -52,7 +52,7 @@
 
 ** display:none **
 
-设置元素不显示
+* 设置元素不显示
 
 display:none 与 visibility:hidden 的区别为 display:none 不显示且不占位，但 visibility:hidden不显示但占位。
 
