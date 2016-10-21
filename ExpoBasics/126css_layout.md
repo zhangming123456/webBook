@@ -255,7 +255,7 @@ order: number(integer);
 其为 flex-grow flex-shrink flex-basis 的值缩写。
 
     flex: <'flex-grow'> || <'flex-shrink'> || <'flex-basis'>
-    initial: 0 1 main-size
+    initial(默认值): 0 1 main-size
 
 ** flex-basis **
 
