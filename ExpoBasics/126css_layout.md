@@ -253,3 +253,7 @@ order: number(integer);
 ###flex 弹性
 
 ** flex-basis **
+
+其用于设置 flex-item 的初始宽高（并作为弹性的基础）。如果 flex-direction 是以 row 排列则设置宽，如以 column 排列则设置高。
+
+    flex-basis: main-size | <width>
