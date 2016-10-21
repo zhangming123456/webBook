@@ -129,4 +129,11 @@ float: left | right | none | inherit
 * 脱离文档流（会被父元素边界阻挡与position脱离文档流的方式不同）
 * 指的方向一直移动
 
+作用：
+
+* 浮动用来解决文字图片环绕问题
+* 制作导航栏
+* 网页布局
+
+
 ![](/assets/float-right.png)
