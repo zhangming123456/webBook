@@ -267,3 +267,10 @@ Width/Height = flex-basis + flex-grow/sum(flow-grow) * remain
     flex-grow: <number>
     initial: 0
     <!-- 默认值为 0 -->
+
+![](/assets/flex-grow0.png)
+
+![](/assets/flex-grow1.png)
+
+![](/assets/flex-grow2.png)
+
