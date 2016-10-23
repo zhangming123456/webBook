@@ -13,5 +13,5 @@
                 * [1-2-5、css盒模型](ExpoBasics/125css_box.md)
                 * [1-2-6、css布局](ExpoBasics/126css_layout.md)
         * [第二章：JavaScript](ExpoBasics/2_javascript.md)
-            * [JavaScript介绍](ExpoBasics/21javascript.md)
+            * [2-1、JavaScript介绍](ExpoBasics/21javascript.md)
 
