@@ -21,3 +21,5 @@ JavaScript 又分为两部分，ECMAScript 和 DOM。其中 JavaScript 的基本
     </script>
 
 ![](/assets/javascript-history.png)
+
+![](/assets/javascript-env.png)
