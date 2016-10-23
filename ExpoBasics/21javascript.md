@@ -13,4 +13,4 @@ JavaScript 又分为两部分，ECMAScript 和 DOM。其中 JavaScript 的基本
 >NOTE:为性能优化建议将 javascript 代码放置在 body 标签的最末端
 
     <!-- 外联文件 -->
-    <script type="text/javascript" src="/js/main.js" charset="utf-8" async defer></script>
+    <script type="text/javascript" src="/js/main.js"></script>
