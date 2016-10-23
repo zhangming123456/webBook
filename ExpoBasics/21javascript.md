@@ -14,3 +14,8 @@ JavaScript 又分为两部分，ECMAScript 和 DOM。其中 JavaScript 的基本
 
     <!-- 外联文件 -->
     <script type="text/javascript" src="/js/main.js"></script>
+
+    <!-- 内嵌代码 -->
+    <script>
+        document.write('Hello, world!');
+    </script>
