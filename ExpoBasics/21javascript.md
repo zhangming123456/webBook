@@ -18,4 +18,6 @@ JavaScript 又分为两部分，ECMAScript 和 DOM。其中 JavaScript 的基本
     <!-- 内嵌代码 -->
     <script>
         document.write('Hello, world!');
-    </script>
+    </script>
+
+![](/assets/javascript-history.png)
