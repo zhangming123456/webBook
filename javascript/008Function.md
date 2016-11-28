@@ -191,7 +191,7 @@ function max(a, b) {
 
 #### 值专递
 
-函数参数的值专递是参数复制都是栈内存中的复制。![Function](images\Function.jpg)
+函数参数的值专递是参数复制都是栈内存中的复制。![Function](images/Function.jpg)
 
 ```
 // 原始类型
