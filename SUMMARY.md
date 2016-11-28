@@ -19,4 +19,6 @@
             * [2-4、内置对象（一）](javascript/004.md)
             * [2-5、内置对象（二）](javascript/005.md)
             * [2-6、内置对象{数组、Date、Math}](javascript/006.md)
-            * [2-6、函数](javascript/007Function.md)
+            * [2-7、函数](javascript/007Function.md)
+            * [2-8、正则表达式](javascript/008RegExp.md)
+
