@@ -16,6 +16,6 @@
             * [2-1、概述](javascript/001.md)
             * [2-2、流程语句](javascript/002.md)
             * [2-3、变量作用域](javascript/003Var.md)
-            * [2-4、流程语句](javascript/004.md)
-            * [2-5、流程语句](javascript/005.md)
+            * [2-4、内置对象（一）](javascript/004.md)
+            * [2-5、内置对象（二）](javascript/005.md)
             * [2-6、流程语句](javascript/006.md)
