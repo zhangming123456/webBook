@@ -19,3 +19,4 @@
             * [2-4、内置对象（一）](javascript/004.md)
             * [2-5、内置对象（二）](javascript/005.md)
             * [2-6、内置对象（三）](javascript/006.md)
+            * [2-6、函数](javascript/007Function.md)
