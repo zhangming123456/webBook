@@ -21,5 +21,4 @@
             * [2-6、内置对象{数组、Date、Math}](javascript/006.md)
             * [2-7、正则表达式](javascript/007RegExp.md)
             * [2-8、函数](javascript/008Function.md)
-            
 
