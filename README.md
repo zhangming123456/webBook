@@ -19,5 +19,6 @@
 | :--- | :-------------- | :-------------------------------- |
 | 基础篇 |  |  |
 | 第一章 | HTML与CSS 基础 | ![](http://progressed.io/bar/100) |
-| 第二章 | JavaScript 基础 | ![](http://progressed.io/bar/0) |
+| 第二章 | JavaScript 基础 | ![](http://progressed.io/bar/100) |
+| 第二章 | DOM 基础 | ![](http://progressed.io/bar/100) |
 
